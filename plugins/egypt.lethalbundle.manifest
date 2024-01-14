@@ -1,0 +1,457 @@
+ManifestFileVersion: 0
+CRC: 4061149146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d333834c9b42ea229d0ad6c4e0ce4cfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bc2b200fda4e8210637449e222d0cd4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d333834c9b42ea229d0ad6c4e0ce4cfb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1888829932, guid: ef56e07b691e88849b490963ea7b241d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3082d2a57f1d60917000af0bdeb85ea8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c348aa78a2dd17054e936e85866d996, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94f10ed4536484ae40a507a235b54583, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 1150276337, guid: 2f21aecb5d3a82d4db4a2850abf1b03f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04f75356a7e9c978bddc7d568e58a50b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c591dfe9908775c880363f17c905bf4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7593b3a9277ac4696b20006c21dde2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 507293d35d7a13e5b9ca9bb60e082e11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8ec375840c30a0e501d18e3ba05fdb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c1fe37c48e8c202e912cc77bbc9a993, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5a15fd86cfe211173eb68d9b08fcff2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a80ba20a441474c3594629ca2cab613, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0cf24d2ccc3b7eab72048d0f57c437, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64c6de9b64f5fa50ab3e1e87d281e1ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42c452f22cd8514406d2b939f4d651dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89cc72f2cd6e5da392d2eb839dbf2eba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4128def65e82d58b0be476ddc923330a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d76bf87743285f3d47d57d0b2cd1ba5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ec87fecbf72ff5990ae58bd3ab9561f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf1473be2fdebe220e46d27c67438ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49cf2e14c1212f6c6bd5f6ac616156d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1a86678fffe49d34317e7b693ae7586, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b2b2e9b427282dee190cd31783992a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 623425071eefd1638e1d2c6d44bd1d05, type: 3}
+- Class: 114
+  Script: {fileID: -791748507, guid: 48132c8dbc97f956e52e75e839ab46f9, type: 3}
+- Class: 114
+  Script: {fileID: -2006330137, guid: 138b4eb11884c8b175831866fa6e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 1326704909, guid: 53e127431f048a4dcfda837bbcdb38f6, type: 3}
+- Class: 114
+  Script: {fileID: -1466384306, guid: 53e127431f048a4dcfda837bbcdb38f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 117
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Adapters.UnityNavMeshAdapter/NavMeshAgentLinkInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.DungeonGenerator
+- AssemblyName: Assembly-CSharp
+  ClassName: IntWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: InteractEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: InteractEventFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: MiscAnimation
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomAudioClip
+- AssemblyName: Assembly-CSharp
+  ClassName: RandomWeatherWithVariables
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableEnemyWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableItemWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableMapObject
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableOutsideObjectWithRarity
+- AssemblyName: Assembly-CSharp
+  ClassName: switchToAudio
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.AnimationCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.CubemapParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpMinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Texture2DParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.HDRISky/DistortionMode]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BackplateTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadeEndBorderParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CascadePartitionSplitParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.EnvUpdateParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogColorParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ScalableSettingLevelParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyAmbientModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyIntensityParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoiseParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresetsParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindOrientationParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindParameter/WindParamaterValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindSpeedParameter
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_giantwall_a_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt Mesh.obj
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_group_01_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_giantwall_c_door.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_statue_c_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sand_01_nm.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/the_false_door_maskmap.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_giantwall_a.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_pillar_01.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_11_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/pyramid_maskmap.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_02_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_05_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/cube.002_4.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger3.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/metalwall.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/fire2.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/Sand.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/cube.002_10.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/redbuttonled.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/shinysteel.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_giantwall_c.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_01_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger7.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sounds/s_desertwind.wav
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_statue_c.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_09_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_01_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_davis3d_caustics.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/cliffs_01_nm.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sounds/OutsideDesert.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_giantwall_c.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_stairs_b.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/Water.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_04_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/WaterTrigger.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_giantwall_c_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_statue_c_metal_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/detail_02_nm.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/closetredframe.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_03_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_tiles_ab_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_stair_a_mrg.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/atlas_rocks_albedo.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt Collider.obj
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger6.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_03_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sandstone_cracks_nor_dx_1k.exr
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_moons/EgyptSelectableLevel.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_08_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/desert-equirectangular.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sandstone_cracks_arm_1k.jpg
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/texturescom_metal_galvanizedsteel_old_512_normal.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/cube.001_3.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/texturescom_metal_corrugated_512_normal.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/Audio.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/pillar.obj
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sand_02_albedo.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_01_mrg.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/the_false_door_frame_basecolor.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_giantwall_e_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/videos/MapViewDesert2.mp4
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/texturescom_metal_corrugated_512_height.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_layers/sand_cracked_layer.terrainlayer
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/doorcollider.obj
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_statue_c_mrg.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_layers/sand_01_layer.terrainlayer
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/brick_wall_1_desert.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sand_02_mask.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_01_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sand_01_albedo.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_03_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_06_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/the_false_door_frame_normal.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/EntranceTeleportB.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/orb of light.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/InsideAmbience.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt Basemap
+  Normal.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/whitehandle_0.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_geometricblock_b.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/defaulthdmaterial_2.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/OutsideShipAmbience.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/the_false_door_basecolor.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_giantwall_a_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_tiles_ab_mrg.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_tiles_ab.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger2.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger5.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_layers/sand_02_layer.terrainlayer
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_07_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_moons/Planet.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/pyramid_normal
+  1.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/detail_02_albedo.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/texturescom_metal_corrugated_512_albedo.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_03_mrg.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/the_false_door.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/AlleyAmbiance.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/_DEVCollider.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_moons/egypt.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt Splatmap.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/EntranceTeleportA.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_statue_c2.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_13_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/closetreddoor.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/the_false_door_frame.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/cube2.obj
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_stairs_a.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_18_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt Splatmap
+  0.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTrigger4.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/HangarAmbiance.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_stair_a_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/ProBuilder Meshes/pb_Mesh-45808.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/pyramid_basecolor
+  1.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/cliffs_01_mask.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/ProBuilder Meshes/pb_Mesh-537190.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_statue_c1.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sand_02_nm.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/cube.obj
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/pyramid.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_pillar_03.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/_DEVNavMesh.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/stone tile.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_geometricblock_a.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_stair_a_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_giantwall_a.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_detail_rocks_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_stairs_a.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_lighting/Sky and Fog Global
+  Volume Profile.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_pillar_03.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/pyramid.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/brick_wall_normal.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/rock_10_low.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_statue_c_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/cliffs_01_albedo.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_giantwall_e_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_pillar_01.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_stair_b_mrg.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/rocks_low_sand.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/the_false_door.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_layers/cliffs_01_layer.terrainlayer
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/3d_fractal_noise04_texture3d.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/meshes/sm_giantwall_e.fbx
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/ReverbTriggers.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_giantwall_c_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/DesertPlanet.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/stone tile 1.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/metalwalldoorblocker.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/spark_white.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sandstone_cracks_diff_1k.jpg
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/atlas_rocks_nm.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_moons/EgyptExtendedLevel.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/sand_01_mask.tif
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt.asset
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_causticflowmap.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_stair_b_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_tiles_ab_dif.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/Environment.prefab
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/the_false_door_frame_maskmap.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/t_pillar_01_c_norm.tga
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_mats/m_giantwall_e.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_prefabs/firedoor/neonblueled.mat
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_terrain/egypt/egypt Basemap
+  Diffuse.png
+- Assets/LethalCompany/LethalCompanyMods/Egypt/egypt_sources/textures/the_false_door_normal.png
+Dependencies: []
