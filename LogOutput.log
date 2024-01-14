@@ -1,10 +1,10 @@
-[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (1/9/2024 6:52:49 PM)
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (1/9/2024 6:52:49 PM)
 [Info   :   BepInEx] Running under Unity v2022.3.9.15351836
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
 [Info   :   BepInEx] System platform: Bits64, Windows
 [Message:   BepInEx] Preloader started
-[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
 [Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
 [Info   :   BepInEx] 2 patcher plugins loaded
 [Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
@@ -23,26 +23,12 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 78 plugins to load
-[Warning:   BepInEx] Skipping [MoreEmotes-Sligili 1.2.2] because a newer version exists (MoreEmotes-Sligili 1.3.3)
-[Warning:   BepInEx] Plugin [AdditionalSuits 1.1.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Corporate Restructure 1.0.6] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [DiscountAlert 2.3.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Gamblers Mod 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [HealthMetrics 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [MoreEmotes-Sligili 1.3.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Health Station mod 1.0.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Strange Objects 1.2.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Suit Saver 1.1.2] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Too Many Suits 1.0.5] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Backrooms 0.1.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Scoopy's Variety Mod 0.6.4] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] 79 plugins to load
 [Info   :   BepInEx] Loading [VoiceHUD 1.0.4]
 [Info   :   BepInEx] Loading [AdditionalSuits 1.1.3]
 [Info   :ACS.AdditionalSuits] AdditionalSuits - initializing...
 [Info   :ACS.AdditionalSuits] AdditionalSuits - initialized!
-[Info   :   BepInEx] Loading [LethalLib 0.12.1]
+[Info   :   BepInEx] Loading [LethalLib 0.13.0]
 [Info   : LethalLib] LethalLib loaded!!
 [Info   : LethalLib] Utilities.Init()
 [Info   :   BepInEx] Loading [YippeeScrap 1.0.5]
@@ -266,7 +252,7 @@ ________________
 [Info   :ReservedItemSlotCore-1.8.10] Cleaning old config entries
 [Info   :ReservedItemSlotCore-1.8.10] ReservedItemSlotCore loaded
 [Info   :   BepInEx] Loading [LethalThings 0.9.4]
-[Info   :LethalThings] LethalLib version is 0.12.1, which is compatible with LethalThings 0.9.0+
+[Info   :LethalThings] LethalLib version is 0.13.0, which is compatible with LethalThings 0.9.0+
 [Info   :LethalThings] [Optional dependency] LethalCompanyInputUtils version is 0.4.4, which is compatible with LethalThings 0.8.0+
 [Info   :LethalThings] [Compatibility] ReservedItemSlotCore version is 1.8.10, which is compatible with LethalThings 0.8.0+
 [Info   : LethalLib] [LethalLib] LethalThings is registering 26 content items!
@@ -317,6 +303,8 @@ ________________
 [Info   :HideModList] Plugin HideModList is loaded!
 [Info   :   BepInEx] Loading [HoldScanButton 1.1.1]
 [Info   :HoldScanButton] Plugin HoldScanButton has loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.0.3]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
 [Info   :   BepInEx] Loading [Corporate Restructure 1.0.6]
 [Info   :Corporate Restructure] Corporate Restructure -> loading
 [Info   :Corporate Restructure] Corporate Restructure -> complete
@@ -330,7 +318,7 @@ ________________
 [Info   :LethalExpansion] Plugin: AdditionalSuits - Version: 1.1.3 - Compatibility: unknown
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: LethalLib - Version: 0.12.1 - Compatibility: unknown
+[Info   :LethalExpansion] Plugin: LethalLib - Version: 0.13.0 - Compatibility: unknown
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion]                               
 [Info   :LethalExpansion] Plugin: YippeeScrap - Version: 1.0.5 - Compatibility: unknown
@@ -426,15 +414,17 @@ ________________
 [Info   :LethalExpansion] Plugin: HoldScanButton - Version: 1.1.1 - Compatibility: unknown
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LethalLevelLoader - Version: 1.0.3 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
 [Info   :LethalExpansion] Plugin: Corporate Restructure - Version: 1.0.6 - Compatibility: unknown
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion] Plugins folder found: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
-[Info   :LethalExpansion] Mod path is: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
-[Warning:LethalExpansion] LethalExpansion is Rooting the Plugins folder, this is not recommended. C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
-[Info   :LethalExpansion] Module found: Orion v1.1.3.0 Loaded in 3814ms
-[Info   :LethalExpansion] Module found: CastleGrounds v1.2.11.0 Loaded in 1223ms
-[Info   :LethalExpansion] Module found: OldSeaPort v1.3.15.0 Loaded in 1774ms
-[Info   :LethalExpansion] Module found: TemplateMod v1.3.17.0 Loaded in 115ms
+[Info   :LethalExpansion] Mod path is: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\LethalExpansion
+[Info   :LethalExpansion] Module found: Orion v1.1.3.0 Loaded in 3593ms
+[Info   :LethalExpansion] Module found: CastleGrounds v1.2.11.0 Loaded in 1212ms
+[Warning:LethalExpansion] Illegal usage of reserved Asset Bundle name: oldseaport at: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\Modules\oldseaport.lem.
+[Warning:LethalExpansion] Illegal usage of reserved Asset Bundle name: templatemod at: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\Modules\templatemod.lem.
 [Info   :LethalExpansion] Water support applied to the HDRenderPipelineAsset.
 [Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.3.19 is loaded.
 [Info   :   BepInEx] Loading [Needy Cats 1.1.1]
@@ -531,17 +521,18 @@ ________________
 [Info   :Junypai.GamblersMod] Number of uses from config: 9999
 [Info   :Junypai.GamblersMod] Number of machines from config: 3
 [Info   :Junypai.GamblersMod] Loading gambler bundle assets
-[Error  : Unity Log] Unable to open archive file: C:/SteamLibrary/steamapps/common/Lethal Company/BepInEx/plugins/gamblingmachinebundle
-[Error  : Unity Log] Failed to read data for the AssetBundle 'C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\gamblingmachinebundle'.
-[Error  :Junypai.GamblersMod] Unable to load gambler bundle assets
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-GamblersMod.Plugin.LoadAssetFromAssetBundleAndLogInfo[T] (UnityEngine.AssetBundle bundle, System.String assetName) (at <602ca3702f0c497ba824eeb805bb8522>:IL_0001)
-GamblersMod.Plugin.Awake () (at <602ca3702f0c497ba824eeb805bb8522>:IL_00C2)
-UnityEngine.GameObject:AddComponent(Type)
-BepInEx.Bootstrap.Chainloader:Start()
-UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
-
+[Info   :Junypai.GamblersMod] Gamblers bundle assets successfully loaded
+[Info   :Junypai.GamblersMod] drumroll asset successfully loaded
+[Info   :Junypai.GamblersMod] holyshit asset successfully loaded
+[Info   :Junypai.GamblersMod] cricket asset successfully loaded
+[Info   :Junypai.GamblersMod] womp asset successfully loaded
+[Info   :Junypai.GamblersMod] machineMusic asset successfully loaded
+[Info   :Junypai.GamblersMod] doublekill asset successfully loaded
+[Info   :Junypai.GamblersMod] triplekill asset successfully loaded
+[Info   :Junypai.GamblersMod] 3270-Regular asset successfully loaded
+[Info   :Junypai.GamblersMod] GamblingMachine asset successfully loaded
+[Info   :Junypai.GamblersMod] HandIconGO asset successfully loaded
+[Message:Junypai.GamblersMod] Gambling machine manager has awoken!
 [Info   :   BepInEx] Loading [FastSwitchPlayerViewInRadar 1.3.1]
 [Info   :FastSwitchPlayerViewInRadar] krystall9.FastSwitchPlayerViewInRadar plugin has been loaded!
 [Info   :   BepInEx] Loading [LethalFashion 1.0.5]
@@ -599,7 +590,12 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :  MoreHead] Successfully loaded cosmetic: morehead.siduiyou
 [Info   :   BepInEx] Loading [Hide Chat 1.0.0]
 [Debug  :Miodec.HideChat] hidechat is awake
-[Error  :   BepInEx] Could not load [MoreEmotes-Sligili 1.3.3] because it has missing dependencies: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.3.3]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SignEmoteText.
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SyncAnimatorToOthers.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type PlayerControllerB.Awake | Triggered by MoreEmotes
 [Info   :   BepInEx] Loading [MoreItems 1.0.0]
 [Info   : MoreItems] Plugin MoreItems is loaded!
 [Info   :   BepInEx] Loading [Backrooms 0.1.3]
@@ -621,7 +617,7 @@ MonoMod.RuntimeDetour.Detour._RefreshChain (System.Reflection.MethodBase method)
 MonoMod.RuntimeDetour.Detour.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:IL_0053)
 MonoMod.RuntimeDetour.Detour..ctor (System.Reflection.MethodBase from, System.Reflection.MethodBase to, MonoMod.RuntimeDetour.DetourConfig& config) (at <4e2760c7517c4ea79c633d67e84b319f>:IL_02E1)
 (wrapper dynamic-method) MonoMod.RuntimeDetour.ILHook+Context.DMD<MonoMod.RuntimeDetour.ILHook+Context::Refresh>(MonoMod.RuntimeDetour.ILHook/Context)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?-603244178(object)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?-444393106(object)
 HarmonyLib.Internal.RuntimeFixes.StackTraceFixes.OnILChainRefresh (System.Object self) (at <474744d65d8e460fa08cd5fd82b5d65f>:IL_0000)
 MonoMod.RuntimeDetour.ILHook.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:IL_0059)
 HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:IL_0047)
@@ -650,8 +646,8 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :Flashlight] ------Flashlight done.------
 [Info   :   BepInEx] Loading [WalkieUse 1.4.0]
 [Info   : WalkieUse] ------Walkie done.------
-[Info   :   BepInEx] Loading [Skinwalker Mod 2.0.7]
-[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 2.0.7
+[Info   :   BepInEx] Loading [Skinwalker Mod 3.0.1]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 3.0.1
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
@@ -675,19 +671,13 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :CompatibilityChecker] Plugin Ryokune.CompatibilityChecker is loaded!
 [Info   :CompatibilityChecker] Modded servers with CompatibilityChecker will now notify you what mods are needed.
 [Info   :   BepInEx] Loading [Scoopy's Variety Mod 0.6.4]
-[Error  : Unity Log] FileNotFoundException: Could not load file or assembly 'LethalLevelLoader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
-Stack trace:
-UnityEngine.GameObject:AddComponent(Type)
-BepInEx.Bootstrap.Chainloader:Start()
-UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
-
+[Info   :ScoopysVarietyMod] Custom Scrap Loaded Successfully
+[Info   :ScoopysVarietyMod] Unpacking Castle Dungeon Assets...
+[Info   :ScoopysVarietyMod] Initialising dungeon preferences...
+[Info   :ScoopysVarietyMod] Registered dungeon interior on all vanilla moons.
+[Info   :ScoopysVarietyMod] Initialised Successfully
 [Info   :   BepInEx] Loading [SCPCBDunGen 1.5.0]
-[Error  : Unity Log] FileNotFoundException: Could not load file or assembly 'LethalLevelLoader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
-Stack trace:
-UnityEngine.GameObject:AddComponent(Type)
-BepInEx.Bootstrap.Chainloader:Start()
-UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
-
+[Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 1.5.0] successfully loaded.
 [Info   :   BepInEx] Loading [Bonk Hit SFX 1.0.4]
 [Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loading.
 [Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loaded. Ow.
@@ -742,19 +732,47 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LRCCosmetics] Successfully loaded cosmetic: lrccosmetics.zoruahead
 [Info   :ReservedFlashlightSlot] Initializing hotkeys.
 [Info   :ReservedWalkieSlot] Initializing hotkeys.
+[Info   :LethalLevelLoader] Finding LethalBundles!
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: egypt.lethalbundle
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '') is missing!
+[Info   :TooManyEmotes] Applying compatibility patch for More_Emotes
 [Info   :LethalExpansion] Loading scene: InitSceneLaunchOptions
-[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 16724
+[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 17012
 [Info   : Unity Log] Saving changed settings
 [Info   :LethalExpansion] Unloading scene: InitSceneLaunchOptions
 [Info   : Unity Log] subcribing to steam callbacks
 [Info   :LethalExpansion] Loading scene: InitScene
 [Info   :LethalExpansion] itemshipanimcontainer Prefab registered.
-[Info   :LethalExpansion] Battery Scrap registered.
-[Info   :LethalExpansion] Canned Food Scrap registered.
-[Info   :LethalExpansion] Matchbox Scrap registered.
-[Info   :LethalExpansion] Pills Scrap registered.
-[Info   :LethalExpansion] Tape Scrap registered.
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Succesfully Restored SpawnEntranceTrigger NetworkPrefab From EntranceTeleportB To EntranceTeleportB
+[Info   :LethalLevelLoader] Succesfully Restored VentSpawner NetworkPrefab From VentEntrance To VentEntrance
+[Info   :LethalLevelLoader] Succesfully Restored SpawnEntranceTrigger NetworkPrefab From EntranceTeleportA To EntranceTeleportA
+[Info   :LethalLevelLoader] Registered 184 NetworkObject's Found In Custom DungeonFlow: CastleFlow
+[Info   :LethalLevelLoader] Registered 139 NetworkObject's Found In Custom DungeonFlow: SCPFlow
+[Info   :LethalLevelLoader] Registered 17 NetworkObject's Found In Custom Level: EGypt
+[Info   :LethalLevelLoader] Trying To Register Prefab: RoundWoodDoor (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: CellDoorFull (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: SCPDoorBtn (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ItemShipAnimContainer (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: AlleyAmbiance (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: HangarAmbiance (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: InsideAmbience (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: OutsideShipAmbience (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: Cube (28) (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: EntranceTeleportA (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: EntranceTeleportB (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: EntranceTeleportC (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: Environment (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger2 (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger3 (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger4 (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger5 (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger6 (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Trying To Register Prefab: ReverbTrigger7 (UnityEngine.GameObject)
+[Info   :LethalLevelLoader] Skipped Registering 320 NetworkObjects As They Were Already Registered.
 [Info   :Jordo.NeedyCats] Added Needy Cats prefab to Network Manager.
+[Info   :Junypai.GamblersMod] Adding Gambling machine to network prefab
 [Info   : Unity Log] Load prefabs to Network Manager
 [Info   :LethalExpansion] Unloading scene: InitScene
 [Info   :LethalExpansion] Loading scene: MainMenu
@@ -770,10 +788,10 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		DATA:
 		--NAME: Immortalite-NocturnalSuits
 		--LINK: https://thunderstore.io/c/lethal-company/p/Immortalite/NocturnalSuits/
-[Info   :CompatibilityChecker] [evaisa.lethallib] Found package: LethalLib[0.12.1]
+[Info   :CompatibilityChecker] [evaisa.lethallib] Found package: LethalLib[0.13.0]
 		DATA:
-		--NAME: PanHouse-LethalClunk
-		--LINK: https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/
+		--NAME: Lethalcums-LethalCums
+		--LINK: https://thunderstore.io/c/lethal-company/p/Lethalcums/LethalCums/
 [Info   :CompatibilityChecker] [ainavt.lc.yippee] Found package: YippeeScrap[1.0.5]
 		DATA:
 		--NAME: GreatestAssets-yippee
@@ -844,8 +862,8 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--LINK: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
 [Info   :CompatibilityChecker] [evaisa.lethalthings] Found package: LethalThings[0.9.4]
 		DATA:
-		--NAME: PanHouse-LethalClunk
-		--LINK: https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/
+		--NAME: Lethalcums-LethalCums
+		--LINK: https://thunderstore.io/c/lethal-company/p/Lethalcums/LethalCums/
 [Info   :CompatibilityChecker] [fivetoofive.DetailedScan] Found package: DetailedScan[1.2.2]
 		DATA:
 		--NAME: fivetoofive-DetailedScan
@@ -898,6 +916,10 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		DATA:
 		--NAME: FutureSavior-Hold_Scan_Button
 		--LINK: https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/
+[Info   :CompatibilityChecker] [imabatby.lethallevelloader] Found package: LethalLevelLoader[1.0.3]
+		DATA:
+		--NAME: NoodleLadJr-LethalLogger
+		--LINK: https://thunderstore.io/c/lethal-company/p/NoodleLadJr/LethalLogger/
 [Info   :CompatibilityChecker] [jamil.corporate_restructure] Found package: Corporate Restructure[1.0.6]
 		DATA:
 		--NAME: TheHorror-___
@@ -962,6 +984,14 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		DATA:
 		--NAME: Monkeytype-HideChat
 		--LINK: https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/
+[Info   :CompatibilityChecker] [NicholaScott.BepInEx.RuntimeNetcodeRPCValidator] Found package: RuntimeNetcodeRPCValidator[0.2.5]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [MoreEmotes] Found package: MoreEmotes-Sligili[1.3.3]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
 [Info   :CompatibilityChecker] [MoreItems] Found package: MoreItems[1.0.0]
 		DATA:
 		--NAME: egeadam-MoreScreams
@@ -1002,7 +1032,7 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		DATA:
 		--NAME: TheHorror-___
 		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
-[Info   :CompatibilityChecker] [RugbugRedfern.SkinwalkerMod] Found package: Skinwalker Mod[2.0.7]
+[Info   :CompatibilityChecker] [RugbugRedfern.SkinwalkerMod] Found package: Skinwalker Mod[3.0.1]
 		DATA:
 		--NAME: TheHorror-___
 		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
@@ -1052,8 +1082,8 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--LINK: https://thunderstore.io/c/lethal-company/p/2018/Brutal_Company/
 [Info   :CompatibilityChecker] [x753.More_Suits] Found package: More Suits[1.4.1]
 		DATA:
-		--NAME: AlexEaston-MoreSuits
-		--LINK: https://thunderstore.io/c/lethal-company/p/AlexEaston/MoreSuits/
+		--NAME: x753-More_Suits
+		--LINK: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
 [Info   :CompatibilityChecker] [verity.TooManySuits] Found package: Too Many Suits[1.0.5]
 		DATA:
 		--NAME: ViViKo-NeonSuits
@@ -1086,9 +1116,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--(If this is wrong, please ignore this.)
 
 		--Mod LethalThings [evaisa.lethalthings] v0.9.4 does not equal the latest release!
-		--Latest version: v1.1.1
-		--Link: https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/
-		--Full mod name: PanHouse-LethalClunk
+		--Latest version: v1.0.0
+		--Link: https://thunderstore.io/c/lethal-company/p/Lethalcums/LethalCums/
+		--Full mod name: Lethalcums-LethalCums
 		--(If this is wrong, please ignore this.)
 
 		--Mod Fair AI [GoldenKitten.FairAI] v1.0.0 does not equal the latest release!
@@ -1145,6 +1175,12 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--Full mod name: MegaPiggy-BuyableShotgunShells
 		--(If this is wrong, please ignore this.)
 
+		--Mod RuntimeNetcodeRPCValidator [NicholaScott.BepInEx.RuntimeNetcodeRPCValidator] v0.2.5 does not equal the latest release!
+		--Latest version: v1.0.0
+		--Link: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+		--Full mod name: TheHorror-___
+		--(If this is wrong, please ignore this.)
+
 		--Mod MoreItems [MoreItems] v1.0.0 does not equal the latest release!
 		--Latest version: v1.0.3
 		--Link: https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/
@@ -1181,12 +1217,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--Full mod name: sunnobunno-LandMineFartReverb
 		--(If this is wrong, please ignore this.)
 
-		--Mod More Suits [x753.More_Suits] v1.4.1 does not equal the latest release!
-		--Latest version: v2.0.1
-		--Link: https://thunderstore.io/c/lethal-company/p/AlexEaston/MoreSuits/
-		--Full mod name: AlexEaston-MoreSuits
-		--(If this is wrong, please ignore this.)
-
 [Warning:CompatibilityChecker] Server-sided Mod List Count: 6
 [Info   : Unity Log] Displaying menu message
 [Info   : Unity Log] Connection approval callback! Game version of client request: 
@@ -1203,6 +1233,7 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalExpansion] Unloading scene: MainMenu
 [Info   :LethalThings] Spawning config manager
 [Info   :Jordo.NeedyCats] Added Needy Cats to items list.
+[Info   :Junypai.GamblersMod] StartOfRoundPatch has awoken
 [Info   : MoreItems] Maximum amount of items that can be saved set to 999.
 [Info   : LethalLib] Added Boomba to ExperimentationLevel with SpawnType [Default]
 [Info   : LethalLib] Added Boomba to AssuranceLevel with SpawnType [Default]
@@ -1224,6 +1255,22 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added TeleporterTrap to TitanLevel
 [Info   : Unity Log] Enabling connection callbacks in StartOfRound
 [Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
 [Info   : LethalLib] Adding 5 unlockables to unlockables list
 [Info   : LethalLib] Adding 5 items to terminal
 [Info   : LethalLib] LethalLib registered item: Small Rug
@@ -1339,6 +1386,18 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added GnarpyPlush to DineLevel
 [Info   : LethalLib] Added GnarpyPlush to OffenseLevel
 [Info   : LethalLib] Added GnarpyPlush to TitanLevel
+[Info   : LethalLib] Added WeezerGuitar to ExperimentationLevel
+[Info   : LethalLib] Added WeezerGuitar to AssuranceLevel
+[Info   : LethalLib] Added WeezerGuitar to VowLevel
+[Info   : LethalLib] Added WeezerGuitar to CompanyBuildingLevel
+[Info   : LethalLib] Added WeezerGuitar to MarchLevel
+[Info   : LethalLib] Added WeezerGuitar to RendLevel
+[Info   : LethalLib] Added WeezerGuitar to DineLevel
+[Info   : LethalLib] Added WeezerGuitar to OffenseLevel
+[Info   : LethalLib] Added WeezerGuitar to TitanLevel
+[Info   : LethalLib] Added FireAxe to RendLevel
+[Info   : LethalLib] Added FireAxe to DineLevel
+[Info   : LethalLib] Added FireAxe to TitanLevel
 [Info   : LethalLib] YippeeScrap registered scrap item: Yippee
 [Info   : LethalLib] Registered scrap item: Arson Plush
 [Info   : LethalLib] Registered scrap item: Cookie Fumo
@@ -1351,6 +1410,8 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Registered scrap item: Gremlin Can
 [Info   : LethalLib] Registered scrap item: Toy Hammer
 [Info   : LethalLib] Registered scrap item: Gnarpy Plush
+[Info   : LethalLib] ScoopysVarietyMod registered scrap item: Weezer Guitar
+[Info   : LethalLib] ScoopysVarietyMod registered scrap item: Fire Axe
 [Info   : LethalLib] MoreShipUpgrades registered shop item: Portable Tele
 [Info   : LethalLib] MoreShipUpgrades registered shop item: Advanced Portable Tele
 [Info   : LethalLib] MoreShipUpgrades registered shop item: Night Vision Goggles
@@ -1477,15 +1538,43 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Message:Terminal Api] Added ftf1 keyword to terminal keywords.
 [Message:Terminal Api] Added detailed keyword to terminal keywords.
 [Message:Terminal Api] Added ds keyword to terminal keywords.
+[Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
+[Info   :LethalLevelLoader] Adding AudioMixerGroup: SFX To Vanilla Reference List!
+[Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
+[Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
+[Info   :LethalLevelLoader] Obtained (100 / 68) Vanilla Item References
+[Info   :LethalLevelLoader] Obtained (21 / 20) Vanilla Enemy References
+[Info   :LethalLevelLoader] Obtained (11 / 11) Vanilla Outside Object References
+[Info   :LethalLevelLoader] Obtained (3 / 2) Vanilla Inside Object References
+[Info   :LethalLevelLoader] Obtained (3 / 3) Vanilla Ambience Library References
+[Info   :LethalLevelLoader] Obtained (4 / 00) Vanilla Audio Mixing Group References
+[Info   :LethalLevelLoader] AudioMixerGroup Name: Master
+[Info   :LethalLevelLoader] AudioMixerGroup Name: SFX
+[Info   :LethalLevelLoader] AudioMixerGroup Name: Master
+[Info   :LethalLevelLoader] AudioMixerGroup Name: Master
+[Info   :Junypai.GamblersMod] RoundManagerPatch has awoken
+[Info   :LethalLevelLoader] Creating ExtendedDungeonFlows For Vanilla DungeonFlows
+[Info   :LethalLevelLoader] Adding Dungeon Flow: Level1Flow
+[Info   :LethalLevelLoader] Adding Dungeon Flow: Level2Flow
+[Info   :LethalLevelLoader] Adding Dungeon Flow: Level1FlowExtraLarge
+[Info   :LethalLevelLoader] Creating ExtendedLevels For Vanilla SelectableLevels
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Experimentation
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Assurance
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Vow
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Gordion
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: March
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Rend
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Dine
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Offense
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Titan
+[Info   :LethalLevelLoader] Adding Dungeon Flow: CastleFlow
+[Info   :LethalLevelLoader] Adding Dungeon Flow: SCPFlow
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: 
+[Info   :LethalLevelLoader] Warming Up 550 Shaders Found In: EGypt
 [Info   :LethalExpansion] Loading scene: SampleSceneRelay
 [Debug  :LethalExpansion] Hotfix: Removing duplicated routes
 [Debug  :LethalExpansion] 7route duplicated route removed.
 [Debug  :LethalExpansion] Hotfix: 1 duplicated route(s) removed
-[Info   :LethalExpansion] Battery Scrap added.
-[Info   :LethalExpansion] Canned Food Scrap added.
-[Info   :LethalExpansion] Matchbox Scrap added.
-[Info   :LethalExpansion] Pills Scrap added.
-[Info   :LethalExpansion] Tape Scrap added.
 [Info   :LethalExpansion] Terminal reset.
 [Warning:LethalExpansion] The given key 'Battery' was not present in the dictionary.
 [Warning:LethalExpansion] The given key 'CannedFood' was not present in the dictionary.
@@ -1495,19 +1584,236 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalExpansion] Orion Moon added.
 [Warning:LethalExpansion] The given key '7Ball ' was not present in the dictionary.
 [Info   :LethalExpansion] CastleGrounds Moon added.
-[Info   :LethalExpansion] TestMoon Moon added.
-[Info   :LethalExpansion] Wateridge Moon added.
-[Info   :LethalExpansion] Battery Scrap patched recursively.
-[Info   :LethalExpansion] Canned Food Scrap patched recursively.
-[Info   :LethalExpansion] Matchbox Scrap patched recursively.
-[Info   :LethalExpansion] Pills Scrap patched recursively.
-[Info   :LethalExpansion] Tape Scrap patched recursively.
 [Info   :LethalExpansion] Moon route price updated.
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
 [Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
 [Info   : Unity Log] Initialized SkinwalkerNetworkManager
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
 [Info   : LethalLib] Diagetic mixer is Diagetic
 [Info   : LethalLib] Found 25 prefabs to fix
@@ -1572,10 +1878,15 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Debug  :More Ship Upgrades] [StartOfRoundPatcher] Baboon Hawk Sample component initiated...
 [Debug  :More Ship Upgrades] [StartOfRoundPatcher] Thumper Sample component initiated...
 [Info   :Jordo.NeedyCats] Added Needy Cats to all levels.
-[Info   : Unity Log] level id: 12
+[Info   :LethalLevelLoader] AudioGroupMixer Reference Inside Music1 Was Null, Assigning Master SFX Mixer For Safety!
+[Info   :LethalLevelLoader] AudioGroupMixer Reference Inside Music2 Was Null, Assigning Master SFX Mixer For Safety!
+[Info   :LethalLevelLoader] AudioGroupMixer Reference Inside DiageticBackground Was Null, Assigning Master SFX Mixer For Safety!
+[Info   :LethalLevelLoader] AudioGroupMixer Reference Inside DesertAmbience Was Null, Assigning Master SFX Mixer For Safety!
+[Info   :LethalLevelLoader] AudioGroupMixer Reference Inside WaterAudio Was Null, Assigning Master SFX Mixer For Safety!
+[Info   : Unity Log] level id: 0
 [Info   : Unity Log] Changing level
-[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=2&-1&-1&-1&-1&-1&-1&4&5&-1&-1&-1&-1[sync]
-[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=2&-1&-1&-1&-1&-1&-1&4&5&-1&-1&-1&-1[sync]
+[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=2&-1&-1&-1&-1&-1&-1&4&5&-1&-1&4[sync]
+[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=2&-1&-1&-1&-1&-1&-1&4&5&-1&-1&4[sync]
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
 [Info   : Unity Log] Item sales percentages #2: 0
@@ -1629,8 +1940,10 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : Unity Log] Loading placed object position as: (-4.88, 0.35, -14.11)
 [Info   : Unity Log] Saving placed position as: (-4.88, 0.35, -14.11)
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
-[Info   : Unity Log] Loading placed object position as: (-2.25, 2.94, -15.55)
-[Info   : Unity Log] Saving placed position as: (-2.25, 2.94, -15.55)
+[Info   : Unity Log] Loading placed object position as: (-1.71, 2.41, -12.11)
+[Info   : Unity Log] Saving placed position as: (-1.71, 2.41, -12.11)
+[Info   : Unity Log] Loading placed object position as: (10.22, 2.93, -11.59)
+[Info   : Unity Log] Saving placed position as: (10.22, 2.93, -11.59)
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -1733,16 +2046,19 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :TooManyEmotes] Loaded 8 unlockable emotes.
 [Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
 [Info   :TooManyEmotes] Loaded Seed: 209580690
-[Info   : Unity Log] Ship grabbable items list loaded. Count: 21
+[Info   : Unity Log] Ship grabbable items list loaded. Count: 24
+[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 62
+[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 0
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
 [Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 100
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
-[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
-[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
-[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
-[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
-[Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 62
-[Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 0
-[Info   : Unity Log] Loading item save data for item: Dart(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
 [Info   :TooManyEmotes] Rotating emote selection in store. Seed: 209580690
 [Info   :TooManyEmotes] Rotate new emote value: 0.54746853678835
 [Info   :TooManyEmotes] Rotate new emote value: 0.114027845726361
@@ -1802,8 +2118,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
 [Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
 [Info   :PersistentPurchases] Registering 138 unlockables
 [Debug  :PersistentPurchases] Default
@@ -1862,38 +2176,22 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Error  : Unity Log] ArgumentException: Cannot use whitespace characters at start or end of section and key names
 Parameter name: key
 Stack trace:
-BepInEx.Configuration.ConfigDefinition.CheckInvalidConfigChars (System.String val, System.String name) (at <fe49c90fe8e24102b42489c11910c71c>:IL_0018)
-BepInEx.Configuration.ConfigDefinition..ctor (System.String section, System.String key) (at <fe49c90fe8e24102b42489c11910c71c>:IL_0011)
-BepInEx.Configuration.ConfigFile.Bind[T] (System.String section, System.String key, T defaultValue, BepInEx.Configuration.ConfigDescription configDescription) (at <fe49c90fe8e24102b42489c11910c71c>:IL_0000)
+BepInEx.Configuration.ConfigDefinition.CheckInvalidConfigChars (System.String val, System.String name) (at <5e471ddbeb974684bff43bc61f1b58cb>:IL_0018)
+BepInEx.Configuration.ConfigDefinition..ctor (System.String section, System.String key) (at <5e471ddbeb974684bff43bc61f1b58cb>:IL_0011)
+BepInEx.Configuration.ConfigFile.Bind[T] (System.String section, System.String key, T defaultValue, BepInEx.Configuration.ConfigDescription configDescription) (at <5e471ddbeb974684bff43bc61f1b58cb>:IL_0000)
 PersistentPurchases.Plugin.setupConfig (System.Collections.Generic.List`1[T] unlockables) (at <9d36770362664d9fa32dc014c89006df>:IL_008B)
 PersistentPurchases.Patches.generateConfig () (at <9d36770362664d9fa32dc014c89006df>:IL_0006)
 (wrapper dynamic-method) Terminal.DMD<Terminal::Start>(Terminal)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Terminal::Start>?1362315100(Terminal)
-LethalLib.Modules.Enemies.Terminal_Start (On.Terminal+orig_Start orig, Terminal self) (at <d94630daeac744428260ff5f2dcb9506>:IL_0336)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Terminal::Start>?454347208(Terminal)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Terminal::Start>?-1668210812(Terminal)
+LethalLib.Modules.Enemies.Terminal_Start (On.Terminal+orig_Start orig, Terminal self) (at <c6bd6fcd6b8d4b0a88abbcaf6c53c112>:IL_0336)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Terminal::Start>?242000596(Terminal)
 
 [Info   : Unity Log] Spawning backrooms
 [Info   : Diversity] Added HUDManagerRevamp to: PlayersManager / HUDManager
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
 [Info   : Diversity] Added PlayerRevamp to: Player (4)
 [Info   : Diversity] Added PlayerRevamp to: Player (5)
 [Info   : Diversity] Added PlayerRevamp to: Player (6)
@@ -1922,305 +2220,51 @@ HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35
 [Info   : Diversity] Added PlayerRevamp to: Player (29)
 [Info   : Diversity] Added PlayerRevamp to: Player (30)
 [Info   : Diversity] Added PlayerRevamp to: Player (31)
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-LCOuijaBoard.Plugin+StartOfRoundPatch.Update (StartOfRound& __instance) (at <97d007071eee4559870c7ba8e909b650>:IL_0010)
-(wrapper dynamic-method) StartOfRound.DMD<StartOfRound::Update>(StartOfRound)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<StartOfRound::Update>?-1935554664(StartOfRound)
-LethalThings.Patches.Debug.StartOfRound_Update (On.StartOfRound+orig_Update orig, StartOfRound self) (at O:/github/LethalThings/LethalThings/Patches/Debug.cs:221)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<StartOfRound::Update>?-1169573844(StartOfRound)
-
-[Info   : Unity Log] Taking control of player Player and enabling camera!
-[Info   :TooManyEmotes] Applied patch for MirrorDecor
-[Info   : Unity Log] Starting voice tracking for player: TheExiledLeader
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-CorporateRestructure.Component.CreditMonitor.UpdateMonitor () (at <145f04274b9a4d6b9e59d1553ca40844>:IL_0000)
-CorporateRestructure.Patch.MonitorPatch.OnPlayerConenct () (at <145f04274b9a4d6b9e59d1553ca40844>:IL_0000)
-(wrapper dynamic-method) GameNetcodeStuff.PlayerControllerB.DMD<GameNetcodeStuff.PlayerControllerB::ConnectClientToPlayerObject>(GameNetcodeStuff.PlayerControllerB)
-(wrapper dynamic-method) GameNetcodeStuff.PlayerControllerB.DMD<GameNetcodeStuff.PlayerControllerB::Update>(GameNetcodeStuff.PlayerControllerB)
-
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\config2\KillableEnemies.md".
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <787acc3c9a4c471ba7d971300105af24>:IL_0164 
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
-  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
-  at System.IO.File.OpenWrite (System.String path) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
-  at PersonalAssignments.Components.KillableEnemiesOutput.OutputList () [0x000d5] in <0391b5eeb10d416d9ce26cec847c0394>:IL_00D5 
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-LethalThings.MonoBehaviours.GrabbableRigidbody.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/GrabbableRigidbody.cs:21)
-LethalThings.MonoBehaviours.Dart.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/Dart.cs:42)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-LethalThings.MonoBehaviours.GrabbableRigidbody.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/GrabbableRigidbody.cs:21)
-LethalThings.MonoBehaviours.Dart.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/Dart.cs:42)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-LethalThings.MonoBehaviours.GrabbableRigidbody.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/GrabbableRigidbody.cs:21)
-LethalThings.MonoBehaviours.Dart.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/Dart.cs:42)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-SprayPaintItem.Start () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0000)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-WalkieTalkie.Start () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0000)
-
-[Info   : Diversity] Added FlashlightRevamp to: FlashlightItem(Clone)
-[Info   : Diversity] Added Rigidbody to: FlashlightItem(Clone)
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-(wrapper dynamic-method) FlashlightItem.DMD<FlashlightItem::Start>(FlashlightItem)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-WalkieTalkie.Start () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0000)
-
-[Info   : Diversity] Added FlashlightRevamp to: FlashlightItem(Clone)
-[Info   : Diversity] Added Rigidbody to: FlashlightItem(Clone)
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-(wrapper dynamic-method) FlashlightItem.DMD<FlashlightItem::Start>(FlashlightItem)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-LethalThings.MonoBehaviours.GrabbableRigidbody.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/GrabbableRigidbody.cs:21)
-LethalThings.MonoBehaviours.Dart.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/Dart.cs:42)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-WalkieTalkie.Start () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0000)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Info   : Diversity] Added FlashlightRevamp to: FlashlightItem(Clone)
-[Info   : Diversity] Added Rigidbody to: FlashlightItem(Clone)
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-(wrapper dynamic-method) FlashlightItem.DMD<FlashlightItem::Start>(FlashlightItem)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-LethalThings.MonoBehaviours.GrabbableRigidbody.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/GrabbableRigidbody.cs:21)
-LethalThings.MonoBehaviours.Dart.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/Dart.cs:42)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-SprayPaintItem.Start () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0000)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-SprayPaintItem.Start () (at <af9b1eec498a45aebd42601d6ab85015>:IL_0000)
-
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  : Unity Log] InvalidOperationException: HTTP/1.1 404 Not Found
-Stack trace:
-UnityEngine.Networking.DownloadHandler.GetCheckedDownloader[T] (UnityEngine.Networking.UnityWebRequest www) (at <c222d83f79f841d286bf88de99b703c5>:IL_003F)
-UnityEngine.Networking.DownloadHandlerAudioClip.GetContent (UnityEngine.Networking.UnityWebRequest www) (at <9a17a0dbd95042e09c96c00e843f4382>:IL_0001)
-HornMoan.PipePatch.LoadAudioClip (System.String filepath) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_005B)
-HornMoan.PipePatch.AudioPatch (GrabbableObject __instance) (at <adcc6bbb2f2a4c35b1d0719ceb30afc6>:IL_0026)
-(wrapper dynamic-method) GrabbableObject.DMD<GrabbableObject::Start>(GrabbableObject)
-LethalThings.MonoBehaviours.GrabbableRigidbody.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/GrabbableRigidbody.cs:21)
-LethalThings.MonoBehaviours.Dart.Start () (at O:/github/LethalThings/LethalThings/MonoBehaviours/Dart.cs:42)
-
-[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
-[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-Diversity.Player.PlayerRevamp.Update () (at <1e08ad9f61bc443cbfd1b054484a2d58>:IL_0347)
-
-[Info   : Diversity] Added Volume to: PlayersManager / HUDManager
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
+[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
+[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/beekeeper.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ProteinPowder.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/BiggerLungs.prefab
@@ -2254,53 +2298,97 @@ Diversity.Player.PlayerRevamp.Update () (at <1e08ad9f61bc443cbfd1b054484a2d58>:I
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Pager.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/LockSmith.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ExtendDeadline.prefab
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Diversity] Added FlashlightRevamp to: FlashlightItem(Clone)
+[Info   : Diversity] Added Rigidbody to: FlashlightItem(Clone)
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Diversity] Added FlashlightRevamp to: FlashlightItem(Clone)
+[Info   : Diversity] Added Rigidbody to: FlashlightItem(Clone)
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Diversity] Added FlashlightRevamp to: FlashlightItem(Clone)
+[Info   : Diversity] Added Rigidbody to: FlashlightItem(Clone)
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
+[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
+[Info   : Diversity] Added Volume to: PlayersManager / HUDManager
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+LCOuijaBoard.Plugin+StartOfRoundPatch.Update (StartOfRound& __instance) (at <97d007071eee4559870c7ba8e909b650>:IL_0010)
+(wrapper dynamic-method) StartOfRound.DMD<StartOfRound::Update>(StartOfRound)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<StartOfRound::Update>?961473514(StartOfRound)
+LethalThings.Patches.Debug.StartOfRound_Update (On.StartOfRound+orig_Update orig, StartOfRound self) (at O:/github/LethalThings/LethalThings/Patches/Debug.cs:221)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<StartOfRound::Update>?274261524(StartOfRound)
+
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   :TooManyEmotes] Applied patch for MirrorDecor
+[Info   : Unity Log] Starting voice tracking for player: TheExiledLeader
+[Info   :Junypai.GamblersMod] ConnectClientToPlayerObjectPatch
+[Info   :Junypai.GamblersMod] Registering host config message handler: Junypai.GamblersMod_OnHostRecievesClientConfigRequest
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\config2\KillableEnemies.md".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <787acc3c9a4c471ba7d971300105af24>:IL_0164 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenWrite (System.String path) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
+  at PersonalAssignments.Components.KillableEnemiesOutput.OutputList () [0x000d5] in <0391b5eeb10d416d9ce26cec847c0394>:IL_00D5 
 [Info   : Unity Log] [SS]: Waiting for suits to sync...
 [Info   : Unity Log] Has beta?: {hasBeta}
 [Info   : Unity Log] Has beta save data: True
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
-[Message:LethalThings] (2) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
-[Message:LethalThings] (2) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
-[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
-[Message:LethalThings] (2) Hit target (PlacementCollider (UnityEngine.Transform)) wawa!!! Layer: (26)
-[Message:LethalThings] (2) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
-[Message:LethalThings] (3) Hit target (ShipInside (UnityEngine.Transform)) wawa!!! Layer: (8)
 [Info   : Unity Log] 76561197999345953
-[Info   : Unity Log] [SS]: Successfully loaded saved suit. (HEVSuit)
+[Info   : Unity Log] [SS]: Successfully loaded saved suit. (CrystalMiami)
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   :ReservedItemSlotCore-1.8.10] Finalizing sync with server.
 [Info   :ReservedItemSlotCore-1.8.10] Adding 2 Reserved item slots to the inventory HUD. Previous inventory HUD size: 4
 [Info   :ReservedItemSlotCore-1.8.10] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
@@ -2310,260 +2398,5 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
 [Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
 [Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Info   : Diversity] Interactor interacted with: StorageCloset
-[Info   : Unity Log] Triggering animated object trigger bool: setting to True
-[Info   : Unity Log] bool val: True
-[Info   : Diversity] Interactor interacted with: StorageCloset
-[Info   : Unity Log] Triggering animated object trigger bool: setting to False
-[Info   : Unity Log] bool val: False
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] Triggering animated object trigger bool: setting to False
-[Info   : Unity Log] bool val: False
-[Info   : Diversity] Interactor interacted with: StorageCloset
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   :LethalExpansion] Item Grabbed.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   :LethalExpansion] Item Grabbed.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   :LethalExpansion] Item Grabbed.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   :LethalExpansion] Item Grabbed.
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Message:LethalThings] Throwing dart with velocity: (-3.62, -0.79, 29.77)
-[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Message:LethalThings] Throwing dart with velocity: (-3.44, 0.08, 29.80)
-[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Message:LethalThings] Throwing dart with velocity: (-3.44, 0.08, 29.80)
-[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Message:LethalThings] Throwing dart with velocity: (-3.13, 1.37, 29.80)
-[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
-[Info   :LethalExpansion] Item Grabbed.
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Message:LethalThings] Throwing dart with velocity: (-2.32, 1.50, 29.87)
-[Message:LethalThings] (3) Hit target (Board_Base (UnityEngine.Transform)) wawa!!! Layer: (0)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Saving placed position as: (-1.71, 2.41, -12.11)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Set interminalmenu to true: True
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet created
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset created successfully
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet enabled
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset enabled successfully
-[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
-[Info   : Unity Log] Ouija Text UI Toggle Requested
-[Info   : Unity Log] Ouija Text UI Toggle Denied: Not Dead
-[Info   : Unity Log] Ouija Text UI Toggle Requested
-[Info   : Unity Log] Ouija Text UI Toggle Denied: Not Dead
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: True
-[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: TheExiledLeader
-[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
-[Debug  :  ShipLoot] Calculating total ship scrap value.
-[Debug  :  ShipLoot] SprayPaintItem(Clone) - $0
-[Debug  :  ShipLoot] Key(Clone) - $3
-[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
-[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
-[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
-[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
-[Debug  :  ShipLoot] Key(Clone) - $3
-[Debug  :  ShipLoot] ExtensionLadderItem(Clone) - $0
-[Debug  :  ShipLoot] ShovelItem(Clone) - $0
-[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
-[Debug  :  ShipLoot] Key(Clone) - $3
-[Debug  :  ShipLoot] Key(Clone) - $3
-[Debug  :  ShipLoot] FlashlightItem(Clone) - $0
-[Debug  :  ShipLoot] Key(Clone) - $3
-[Debug  :  ShipLoot] Key(Clone) - $3
-[Debug  :  ShipLoot] SprayPaintItem(Clone) - $0
-[Debug  :  ShipLoot] ShovelItem(Clone) - $0
-[Debug  :  ShipLoot] SprayPaintItem(Clone) - $0
-[Debug  :  ShipLoot] Dart(Clone) - $0
-[Debug  :  ShipLoot] Dart(Clone) - $0
-[Debug  :  ShipLoot] Dart(Clone) - $0
-[Debug  :  ShipLoot] Dart(Clone) - $0
-[Debug  :  ShipLoot] Dart(Clone) - $0
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Waiting for 3 seconds...
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Scan initiated!
-[Info   : Unity Log] Cooldown complete. Hiding UI.
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] [SS]: Successfully saved current suit. (CrystalMiami)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] secondary use A
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Saving placed position as: (10.22, 2.93, -11.59)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Set interminalmenu to true: True
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   : Unity Log] Ouija Text UI Toggle Requested
-[Info   : Unity Log] Ouija Text UI Toggle Denied: Not Dead
-[Info   : Diversity] Interactor interacted with: ShipInside
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] PLAYER OPENED MENU
-[Info   : Unity Log] In terminal menu: True
-[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: TheExiledLeader
-[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: False
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :ReservedWalkieSlot] ACTIVATE ITEM
-[Info   : Unity Log] Leaving current lobby
-[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
-[Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Saving the LGU upgrades unto a json file...
-[Info   : Unity Log] Saved data for item type: Dart - 0
-[Info   : Unity Log] Saved data for item type: Dart - 0
-[Info   : Unity Log] Saved data for item type: Spray paint - 62
-[Info   : Unity Log] Saved data for item type: Dart - 0
-[Info   : Unity Log] Saved data for item type: Spray paint - 0
-[Info   : Unity Log] Saved data for item type: Dart - 0
-[Info   : Unity Log] Saved data for item type: Spray paint - 100
-[Info   : Unity Log] Saved data for item type: Dart - 0
-[Info   : Unity Log] Saved data for item type: Dart - 0
-[Info   :TooManyEmotes] [SaveManager] Saving game values.
-[Info   :TooManyEmotes] Saving 8 emotes for player: TheExiledLeader
-[Info   :TooManyEmotes] Saving 100 emote credits for player: TheExiledLeader
-[Info   :TooManyEmotes] Saved Seed: 209580690
-[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
-[Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Resetting the Upgrade Bus due to disconnecting...
-[Debug  :More Ship Upgrades] [UpgradeBus] Resetting TheExiledLeader's attributes
-[Error  : Unity Log] NullReferenceException
-Stack trace:
-TooManySuits.PluginLoader.DisplaySuits () (at <434b74dca9584b6891fed93d3e2a47a3>:IL_003D)
-TooManySuits.PluginLoader.Update () (at <434b74dca9584b6891fed93d3e2a47a3>:IL_0016)
-
-[Info   : Unity Log] [Network Transport] Disconnected
-[Info   : Unity Log] Resetting unlockables list!
-[Info   : Unity Log] Scene manager is null
-[Info   : Unity Log] Terminal disabled, disabling ESC key listener
-[Info   : Unity Log] DISABLING connection callbacks in round manager
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
-[Info   :LethalExpansion] Unloading scene: SampleSceneRelay
-[Info   :LethalExpansion] Loading scene: MainMenu
-[Info   : Unity Log] Returning week num: 4
-[Info   : Unity Log] week num: 4
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Warning: Unity Log] RGBA(0.810, 0.586, 0.536, 1.000)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Warning: Unity Log] RGBA(0.321, 0.728, 0.828, 1.000)
-[Warning: Unity Log] RGBA(0.330, 0.614, 0.118, 1.000)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
