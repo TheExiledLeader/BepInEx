@@ -23,7 +23,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 79 plugins to load
+[Info   :   BepInEx] 78 plugins to load
 [Info   :   BepInEx] Loading [VoiceHUD 1.0.4]
 [Info   :   BepInEx] Loading [AdditionalSuits 1.1.3]
 [Info   :ACS.AdditionalSuits] AdditionalSuits - initializing...
@@ -243,9 +243,6 @@ ________________
 [Info   :Lethal Company Input Utils] Plugin com.rune580.LethalCompanyInputUtils is loaded!
 [Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
 [Info   :DiscountAlert] Plugin discount.alert is loaded!
-[Info   :   BepInEx] Loading [OuijaBoard 1.5.0]
-[Info   : Unity Log] Ouija Board store enabled at 100 credits
-[Info   :OuijaBoard] OuijaBoard loaded!
 [Info   :   BepInEx] Loading [EmployeeAssignments 1.0.9]
 [Info   :   BepInEx] Loading [ReservedItemSlotCore 1.8.10]
 [Info   :ReservedItemSlotCore-1.8.10] BindingConfigs
@@ -363,9 +360,6 @@ ________________
 [Info   :LethalExpansion] Plugin: DiscountAlert - Version: 2.3.0.0 - Compatibility: unknown
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: OuijaBoard - Version: 1.5.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
 [Info   :LethalExpansion] Plugin: EmployeeAssignments - Version: 1.0.9 - Compatibility: unknown
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion]                               
@@ -421,8 +415,8 @@ ________________
 [Info   :LethalExpansion] ------------------------------
 [Info   :LethalExpansion] Plugins folder found: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
 [Info   :LethalExpansion] Mod path is: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\LethalExpansion
-[Info   :LethalExpansion] Module found: Orion v1.1.3.0 Loaded in 3565ms
-[Info   :LethalExpansion] Module found: CastleGrounds v1.2.11.0 Loaded in 1208ms
+[Info   :LethalExpansion] Module found: Orion v1.1.3.0 Loaded in 3579ms
+[Info   :LethalExpansion] Module found: CastleGrounds v1.2.11.0 Loaded in 1217ms
 [Warning:LethalExpansion] Illegal usage of reserved Asset Bundle name: oldseaport at: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\Modules\oldseaport.lem.
 [Warning:LethalExpansion] Illegal usage of reserved Asset Bundle name: templatemod at: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\Modules\templatemod.lem.
 [Info   :LethalExpansion] Water support applied to the HDRenderPipelineAsset.
@@ -617,7 +611,7 @@ MonoMod.RuntimeDetour.Detour._RefreshChain (System.Reflection.MethodBase method)
 MonoMod.RuntimeDetour.Detour.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:IL_0053)
 MonoMod.RuntimeDetour.Detour..ctor (System.Reflection.MethodBase from, System.Reflection.MethodBase to, MonoMod.RuntimeDetour.DetourConfig& config) (at <4e2760c7517c4ea79c633d67e84b319f>:IL_02E1)
 (wrapper dynamic-method) MonoMod.RuntimeDetour.ILHook+Context.DMD<MonoMod.RuntimeDetour.ILHook+Context::Refresh>(MonoMod.RuntimeDetour.ILHook/Context)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?820640110(object)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?1279949166(object)
 HarmonyLib.Internal.RuntimeFixes.StackTraceFixes.OnILChainRefresh (System.Object self) (at <474744d65d8e460fa08cd5fd82b5d65f>:IL_0000)
 MonoMod.RuntimeDetour.ILHook.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:IL_0059)
 HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:IL_0047)
@@ -737,7 +731,7 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Warning: Unity Log] The referenced script on this Behaviour (Game Object '') is missing!
 [Info   :TooManyEmotes] Applying compatibility patch for More_Emotes
 [Info   :LethalExpansion] Loading scene: InitSceneLaunchOptions
-[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 17046
+[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 17239
 [Info   : Unity Log] Saving changed settings
 [Info   :LethalExpansion] Unloading scene: InitSceneLaunchOptions
 [Info   : Unity Log] subcribing to steam callbacks
@@ -776,10 +770,10 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : Unity Log] Load prefabs to Network Manager
 [Info   :LethalExpansion] Unloading scene: InitScene
 [Info   :LethalExpansion] Loading scene: MainMenu
-[Info   : Unity Log] Returning week num: 4
-[Info   : Unity Log] week num: 4
+[Info   : Unity Log] Returning week num: 5
+[Info   : Unity Log] week num: 5
 [Info   : Unity Log] host button pressed
-[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] Returning week num: 5
 [Info   :CompatibilityChecker] [5Bit.VoiceHUD] Found package: VoiceHUD[1.0.4]
 		DATA:
 		--NAME: 5Bit-VoiceHUD
@@ -845,10 +839,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--NAME: TeamTinyAdmin-Lethal_Company_Tiny_Admin
 		--LINK: https://thunderstore.io/c/lethal-company/p/TeamTinyAdmin/Lethal_Company_Tiny_Admin/
 [Info   :CompatibilityChecker] [discount.alert] Found package: DiscountAlert[2.3.0.0]
-		DATA:
-		--NAME: TheHorror-___
-		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
-[Info   :CompatibilityChecker] [Electric.OuijaBoard] Found package: OuijaBoard[1.5.0]
 		DATA:
 		--NAME: TheHorror-___
 		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
@@ -1119,6 +1109,12 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		--Latest version: v1.1.1
 		--Link: https://thunderstore.io/c/lethal-company/p/PanHouse/LethalClunk/
 		--Full mod name: PanHouse-LethalClunk
+		--(If this is wrong, please ignore this.)
+
+		--Mod TooManyEmotes [FlipMods.TooManyEmotes] v1.7.10 does not equal the latest release!
+		--Latest version: v1.7.11
+		--Link: https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
+		--Full mod name: FlipMods-TooManyEmotes
 		--(If this is wrong, please ignore this.)
 
 		--Mod Fair AI [GoldenKitten.FairAI] v1.0.0 does not equal the latest release!
@@ -1418,7 +1414,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] MoreShipUpgrades registered shop item: Medkit
 [Info   : LethalLib] MoreShipUpgrades registered shop item: Peeper
 [Info   : LethalLib] MoreShipUpgrades registered shop item: Diving Kit
-[Info   : LethalLib] LCOuijaBoard registered shop item: Ouija Board
 [Info   : LethalLib] Registered shop item: Rocket Launcher
 [Info   : LethalLib] Registered shop item: Flaregun
 [Info   : LethalLib] Registered shop item: Emergency Flare (ammo)
@@ -1429,7 +1424,7 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Registered shop item: Pinger
 [Info   : LethalLib] BuyableShotgun registered shop item: Shotgun
 [Info   : LethalLib] Registered item: Dart
-[Info   : LethalLib] Adding 17 items to terminal
+[Info   : LethalLib] Adding 16 items to terminal
 [Info   : LethalLib] Adding Portable Tele to terminal
 [Info   : LethalLib] Generating buynode2
 [Info   : LethalLib] Item price: 300, Item index: 13
@@ -1466,73 +1461,66 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Generating buynode1
 [Info   : LethalLib] Item price: 650, Item index: 18
 [Info   : LethalLib] Generated keyword: diving-kit
-[Info   : LethalLib] Adding Ouija Board to terminal
-[Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 100, Item index: 19
-[Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 100, Item index: 19
-[Info   : LethalLib] Generated keyword: ouija-board
-[Info   : LethalLib] Generated item info!!
 [Info   : LethalLib] Adding Rocket Launcher to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 300, Item index: 20
+[Info   : LethalLib] Item price: 300, Item index: 19
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 300, Item index: 20
+[Info   : LethalLib] Item price: 300, Item index: 19
 [Info   : LethalLib] Generated keyword: rocket-launcher
 [Info   : LethalLib] Adding Flaregun to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 100, Item index: 21
+[Info   : LethalLib] Item price: 100, Item index: 20
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 100, Item index: 21
+[Info   : LethalLib] Item price: 100, Item index: 20
 [Info   : LethalLib] Generated keyword: flaregun
 [Info   : LethalLib] Adding Emergency Flare (ammo) to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 20, Item index: 22
+[Info   : LethalLib] Item price: 20, Item index: 21
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 20, Item index: 22
+[Info   : LethalLib] Item price: 20, Item index: 21
 [Info   : LethalLib] Generated keyword: emergency-flare-(ammo)
 [Info   : LethalLib] Adding Toy Hammer to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 15, Item index: 23
+[Info   : LethalLib] Item price: 15, Item index: 22
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 15, Item index: 23
+[Info   : LethalLib] Item price: 15, Item index: 22
 [Info   : LethalLib] Generated keyword: toy-hammer
 [Info   : LethalLib] Adding Remote Radar to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 150, Item index: 24
+[Info   : LethalLib] Item price: 150, Item index: 23
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 150, Item index: 24
+[Info   : LethalLib] Item price: 150, Item index: 23
 [Info   : LethalLib] Generated keyword: remote-radar
 [Info   : LethalLib] Adding Utility Belt to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 290, Item index: 25
+[Info   : LethalLib] Item price: 290, Item index: 24
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 290, Item index: 25
+[Info   : LethalLib] Item price: 290, Item index: 24
 [Info   : LethalLib] Generated keyword: utility-belt
 [Info   : LethalLib] Adding Hacking Tool to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 120, Item index: 26
+[Info   : LethalLib] Item price: 120, Item index: 25
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 120, Item index: 26
+[Info   : LethalLib] Item price: 120, Item index: 25
 [Info   : LethalLib] Generated keyword: hacking-tool
 [Info   : LethalLib] Adding Pinger to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 100, Item index: 27
+[Info   : LethalLib] Item price: 100, Item index: 26
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 100, Item index: 27
+[Info   : LethalLib] Item price: 100, Item index: 26
 [Info   : LethalLib] Generated keyword: pinger
 [Info   : LethalLib] Adding Shotgun to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 700, Item index: 28
+[Info   : LethalLib] Item price: 700, Item index: 27
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 700, Item index: 28
+[Info   : LethalLib] Item price: 700, Item index: 27
 [Info   : LethalLib] Generated keyword: shotgun
 [Info   : LethalLib] Generated item info!!
 [Info   : LethalLib] Adding Shells to terminal
 [Info   : LethalLib] Generating buynode2
-[Info   : LethalLib] Item price: 20, Item index: 29
+[Info   : LethalLib] Item price: 20, Item index: 28
 [Info   : LethalLib] Generating buynode1
-[Info   : LethalLib] Item price: 20, Item index: 29
+[Info   : LethalLib] Item price: 20, Item index: 28
 [Info   : LethalLib] Generated keyword: shells
 [Info   : LethalLib] Generated item info!!
 [Message:Terminal Api] Added ftf1 keyword to terminal keywords.
@@ -1542,7 +1530,7 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalLevelLoader] Adding AudioMixerGroup: SFX To Vanilla Reference List!
 [Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
 [Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
-[Info   :LethalLevelLoader] Obtained (100 / 68) Vanilla Item References
+[Info   :LethalLevelLoader] Obtained (99 / 68) Vanilla Item References
 [Info   :LethalLevelLoader] Obtained (21 / 20) Vanilla Enemy References
 [Info   :LethalLevelLoader] Obtained (11 / 11) Vanilla Outside Object References
 [Info   :LethalLevelLoader] Obtained (3 / 2) Vanilla Inside Object References
@@ -1916,7 +1904,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : Unity Log] Item sales percentages #26: 0
 [Info   : Unity Log] Item sales percentages #27: 0
 [Info   : Unity Log] Item sales percentages #28: 0
-[Info   : Unity Log] Item sales percentages #29: 0
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -2047,18 +2034,18 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
 [Info   :TooManyEmotes] Loaded Seed: 209580690
 [Info   : Unity Log] Ship grabbable items list loaded. Count: 24
-[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
-[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: ShotgunItem(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: ShotgunItem(Clone) (UnityEngine.GameObject): 0
 [Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 62
-[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: ShotgunItem(Clone) (UnityEngine.GameObject): 0
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
 [Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 0
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
-[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: ShotgunItem(Clone) (UnityEngine.GameObject): 0
 [Info   : Unity Log] Loading item save data for item: SprayPaintItem(Clone) (UnityEngine.GameObject): 100
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
-[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
-[Info   : Unity Log] Loading item save data for item: PingTool(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: ShotgunItem(Clone) (UnityEngine.GameObject): 0
+[Info   : Unity Log] Loading item save data for item: ShotgunItem(Clone) (UnityEngine.GameObject): 0
 [Info   :TooManyEmotes] Rotating emote selection in store. Seed: 209580690
 [Info   :TooManyEmotes] Rotate new emote value: 0.54746853678835
 [Info   :TooManyEmotes] Rotate new emote value: 0.114027845726361
@@ -2100,7 +2087,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : Unity Log] Item sales percentages #26: 0
 [Info   : Unity Log] Item sales percentages #27: 0
 [Info   : Unity Log] Item sales percentages #28: 0
-[Info   : Unity Log] Item sales percentages #29: 0
 [Info   : Unity Log] Group credits: 408
 [Debug  :More Ship Upgrades] [TerminalPatcher] Start
 [Info   :MaskedEnemyRework] Found Flowerman!
@@ -2182,9 +2168,9 @@ BepInEx.Configuration.ConfigFile.Bind[T] (System.String section, System.String k
 PersistentPurchases.Plugin.setupConfig (System.Collections.Generic.List`1[T] unlockables) (at <9d36770362664d9fa32dc014c89006df>:IL_008B)
 PersistentPurchases.Patches.generateConfig () (at <9d36770362664d9fa32dc014c89006df>:IL_0006)
 (wrapper dynamic-method) Terminal.DMD<Terminal::Start>(Terminal)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Terminal::Start>?988267560(Terminal)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Terminal::Start>?744831200(Terminal)
 LethalLib.Modules.Enemies.Terminal_Start (On.Terminal+orig_Start orig, Terminal self) (at <c6bd6fcd6b8d4b0a88abbcaf6c53c112>:IL_0336)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Terminal::Start>?1760588176(Terminal)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Terminal::Start>?-1716572232(Terminal)
 
 [Info   : Unity Log] Spawning backrooms
 [Info   : Diversity] Added HUDManagerRevamp to: PlayersManager / HUDManager
@@ -2220,14 +2206,6 @@ LethalLib.Modules.Enemies.Terminal_Start (On.Terminal+orig_Start orig, Terminal 
 [Info   : Diversity] Added PlayerRevamp to: Player (29)
 [Info   : Diversity] Added PlayerRevamp to: Player (30)
 [Info   : Diversity] Added PlayerRevamp to: Player (31)
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-LCOuijaBoard.Plugin+StartOfRoundPatch.Update (StartOfRound& __instance) (at <97d007071eee4559870c7ba8e909b650>:IL_0010)
-(wrapper dynamic-method) StartOfRound.DMD<StartOfRound::Update>(StartOfRound)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<StartOfRound::Update>?87461026(StartOfRound)
-LethalThings.Patches.Debug.StartOfRound_Update (On.StartOfRound+orig_Update orig, StartOfRound self) (at O:/github/LethalThings/LethalThings/Patches/Debug.cs:221)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<StartOfRound::Update>?-1887888876(StartOfRound)
-
 [Info   : Unity Log] Taking control of player Player and enabling camera!
 [Info   :TooManyEmotes] Applied patch for MirrorDecor
 [Info   : Unity Log] Starting voice tracking for player: TheExiledLeader
@@ -2380,9 +2358,9 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
-[Message:LethalThings] (3) Hit target (PingTool(Clone) (UnityEngine.Transform)) wawa!!! Layer: (6)
-[Message:LethalThings] (3) Hit target (PingTool(Clone) (UnityEngine.Transform)) wawa!!! Layer: (6)
-[Message:LethalThings] (3) Hit target (PingTool(Clone) (UnityEngine.Transform)) wawa!!! Layer: (6)
+[Message:LethalThings] (2) Hit target (ShotgunItem(Clone) (UnityEngine.Transform)) wawa!!! Layer: (6)
+[Message:LethalThings] (2) Hit target (ShotgunItem(Clone) (UnityEngine.Transform)) wawa!!! Layer: (6)
+[Message:LethalThings] (2) Hit target (ShotgunItem(Clone) (UnityEngine.Transform)) wawa!!! Layer: (6)
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
