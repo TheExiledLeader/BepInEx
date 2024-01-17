@@ -23,7 +23,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 77 plugins to load
+[Info   :   BepInEx] 78 plugins to load
 [Info   :   BepInEx] Loading [VoiceHUD 1.0.4]
 [Info   :   BepInEx] Loading [AdditionalSuits 1.1.3]
 [Info   :ACS.AdditionalSuits] AdditionalSuits - initializing...
@@ -199,6 +199,19 @@ ________________
 [Info   :EliteMasterEric's Wacky Cosmetics] Loaded Wacky cosmetic: wackycosmetics.tbhcreature
 [Info   :EliteMasterEric's Wacky Cosmetics] Loaded Wacky cosmetic: wackycosmetics.toweringpillarofhats
 [Info   :EliteMasterEric's Wacky Cosmetics] Loaded Wacky cosmetic: wackycosmetics.valkyriehelm
+[Info   :   BepInEx] Loading [LethalExpansion(core) 1.3.14]
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.14) is loading...
+[Info   :LethalExpansion(core)] Loaded LethalExpansion: LethalExpansion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :LethalExpansion(core)] Patched LethalExpansion#Awake
+[Info   :LethalExpansion(core)] Plugins folder found: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
+[Info   :LethalExpansion(core)] Mod path is: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
+[Warning:LethalExpansion(core)] LethalExpansion is Rooting the Plugins folder, this is not recommended. C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
+[Info   :LethalExpansion(core)] Module 'CastleGrounds' v1.2.11.0 was loaded in 1219ms
+[Info   :LethalExpansion(core)] Module 'OldSeaPort' v1.3.15.0 was loaded in 1770ms
+[Info   :LethalExpansion(core)] Module 'Orion' v1.1.3.0 was loaded in 3591ms
+[Info   :LethalExpansion(core)] Module 'TemplateMod' v1.3.17.0 was loaded in 116ms
+[Info   :LethalExpansion(core)] Water support applied to the HDRenderPipelineAsset.
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.14) is loaded.
 [Info   :   BepInEx] Loading [ShipLoot 1.0]
 [Info   :   BepInEx] Loading [More Ship Upgrades 2.8.0]
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/LGUStore.prefab
@@ -304,118 +317,7 @@ ________________
 [Info   :Corporate Restructure] Corporate Restructure -> loading
 [Info   :Corporate Restructure] Corporate Restructure -> complete
 [Info   :   BepInEx] Loading [LethalExpansion 1.3.19]
-[Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.3.19 is loading...
-[Info   :LethalExpansion] Getting other plugins list
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: VoiceHUD - Version: 1.0.4 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: AdditionalSuits - Version: 1.1.3 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: LethalLib - Version: 0.13.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: YippeeScrap - Version: 1.0.5 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Free Jester - Version: 1.0.3 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Terminal Api - Version: 1.5.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Strange Objects - Version: 1.2.0.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Quota Rollover - Version: 2.2.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Diversity - Version: 1.1.10 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Karma For Being Annoying Mod - Version: 1.1.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Coroner - Version: 1.5.3 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Warning:LethalExpansion] Plugin: MoreCompany - Version: 1.7.4 - Compatibility: medium
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: EliteMasterEric's Wacky Cosmetics - Version: 1.0.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: ShipLoot - Version: 1.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: More Ship Upgrades - Version: 2.8.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Lethal Company Input Utils - Version: 0.4.4 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: DiscountAlert - Version: 2.3.0.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: EmployeeAssignments - Version: 1.0.9 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: ReservedItemSlotCore - Version: 1.8.10 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: LethalThings - Version: 0.9.4 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: DetailedScan - Version: 1.2.2 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: BetterStamina - Version: 1.3.2 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: FasterItemDropship - Version: 1.2.1 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: LetMeLookDown - Version: 1.0.1 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: MoreBlood - Version: 1.0.2 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: ReservedFlashlightSlot - Version: 1.5.10 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: ReservedWalkieSlot - Version: 1.5.5 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: TooManyEmotes - Version: 1.7.10 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Fair AI - Version: 1.0.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Suit Saver - Version: 1.1.2 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: HideModList - Version: 1.0.0 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: HoldScanButton - Version: 1.1.1 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: LethalLevelLoader - Version: 1.0.3 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion]                               
-[Info   :LethalExpansion] Plugin: Corporate Restructure - Version: 1.0.6 - Compatibility: unknown
-[Info   :LethalExpansion] ------------------------------
-[Info   :LethalExpansion] Plugins folder found: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins
-[Info   :LethalExpansion] Mod path is: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\LethalExpansion
-[Info   :LethalExpansion] Module found: Orion v1.1.3.0 Loaded in 3573ms
-[Info   :LethalExpansion] Module found: CastleGrounds v1.2.11.0 Loaded in 1218ms
-[Warning:LethalExpansion] Illegal usage of reserved Asset Bundle name: oldseaport at: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\Modules\oldseaport.lem.
-[Warning:LethalExpansion] Illegal usage of reserved Asset Bundle name: templatemod at: C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\Modules\templatemod.lem.
-[Info   :LethalExpansion] Water support applied to the HDRenderPipelineAsset.
-[Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.3.19 is loaded.
+[Info   :LethalExpansion(core)] Prevented LethalExpansion from initializing
 [Info   :   BepInEx] Loading [Needy Cats 1.1.1]
 [Info   :Jordo.NeedyCats] Initialized Needy Cats
 [Info   :   BepInEx] Loading [Gamblers Mod 1.0.0]
@@ -533,6 +435,7 @@ ________________
 [Info   :   BepInEx] Loading [LethalPresents 1.0.4]
 [Info   :LethalPresents] Plugin LethalPresents is loaded!
 [Info   :LethalPresents] Following enemies wont be spawned from the gift:
+[Info   :LethalPresents] Thumper
 [Info   :LethalPresents] 
 [Info   :   BepInEx] Loading [LRCCosmetics 1.0.0]
 [Info   :LRCCosmetics] Plugin LRCCosmetics is loaded!
@@ -606,7 +509,7 @@ MonoMod.RuntimeDetour.Detour._RefreshChain (System.Reflection.MethodBase method)
 MonoMod.RuntimeDetour.Detour.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:IL_0053)
 MonoMod.RuntimeDetour.Detour..ctor (System.Reflection.MethodBase from, System.Reflection.MethodBase to, MonoMod.RuntimeDetour.DetourConfig& config) (at <4e2760c7517c4ea79c633d67e84b319f>:IL_02E1)
 (wrapper dynamic-method) MonoMod.RuntimeDetour.ILHook+Context.DMD<MonoMod.RuntimeDetour.ILHook+Context::Refresh>(MonoMod.RuntimeDetour.ILHook/Context)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?105109870(object)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?-1318306450(object)
 HarmonyLib.Internal.RuntimeFixes.StackTraceFixes.OnILChainRefresh (System.Object self) (at <474744d65d8e460fa08cd5fd82b5d65f>:IL_0000)
 MonoMod.RuntimeDetour.ILHook.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:IL_0059)
 HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:IL_0047)
@@ -725,13 +628,38 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalLevelLoader] Loading Custom Content From Bundle: egypt.lethalbundle
 [Warning: Unity Log] The referenced script on this Behaviour (Game Object '') is missing!
 [Info   :TooManyEmotes] Applying compatibility patch for More_Emotes
-[Info   :LethalExpansion] Loading scene: InitSceneLaunchOptions
-[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 17977
+[Info   :LethalExpansion(core)] Loading scene 'InitSceneLaunchOptions'
+[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 18007
 [Info   : Unity Log] Saving changed settings
-[Info   :LethalExpansion] Unloading scene: InitSceneLaunchOptions
+[Info   :LethalExpansion(core)] Unloading scene: InitSceneLaunchOptions
 [Info   : Unity Log] subcribing to steam callbacks
-[Info   :LethalExpansion] Loading scene: InitScene
-[Info   :LethalExpansion] itemshipanimcontainer Prefab registered.
+[Info   :LethalExpansion(core)] Loading scene 'InitScene'
+[Info   :LethalExpansion(core)] Registered prefab 'itemshipanimcontainer' from 'LethalExpansion'
+[Info   :LethalExpansion(core)] Registered moon 'CastleGrounds' from 'CastleGrounds'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '3854579713' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '3489500398' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '3099713668' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Registered moon 'Orion' from 'Orion'
+[Info   :LethalExpansion(core)] Registered scrap 'Battery' from 'TemplateMod'
+[Info   :LethalExpansion(core)] Registered scrap 'Canned Food' from 'TemplateMod'
+[Info   :LethalExpansion(core)] Registered scrap 'Matchbox' from 'TemplateMod'
+[Info   :LethalExpansion(core)] Registered scrap 'Pills' from 'TemplateMod'
+[Info   :LethalExpansion(core)] Registered scrap 'Tape' from 'TemplateMod'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '2508658379' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '1746024698' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Registered moon 'TestMoon' from 'TemplateMod'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '2670687795' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '3723490546' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Adding missing NetworkObject to EntranceTeleport 'InteractTrigger (UnityEngine.GameObject)' to fix desync issue
+[Info   :LethalExpansion(core)] Added NetworkObject with id '3035935438' to 'InteractTrigger (UnityEngine.GameObject)'
+[Info   :LethalExpansion(core)] Registered moon 'Wateridge' from 'TemplateMod'
 [Info   :LethalLevelLoader] Registering Bundle Content!
 [Info   :LethalLevelLoader] Succesfully Restored SpawnEntranceTrigger NetworkPrefab From EntranceTeleportB To EntranceTeleportB
 [Info   :LethalLevelLoader] Succesfully Restored VentSpawner NetworkPrefab From VentEntrance To VentEntrance
@@ -763,28 +691,12 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :Jordo.NeedyCats] Added Needy Cats prefab to Network Manager.
 [Info   :Junypai.GamblersMod] Adding Gambling machine to network prefab
 [Info   : Unity Log] Load prefabs to Network Manager
-[Info   :LethalExpansion] Unloading scene: InitScene
-[Info   :LethalExpansion] Loading scene: MainMenu
-[Info   : Unity Log] file vers: 0 not compatible; 38
-[Info   : Unity Log] Displaying menu notification: Some of your save files may not be compatible with version 38 and may be corrupted if you play them.
+[Info   :LethalExpansion(core)] Unloading scene: InitScene
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
 [Info   : Unity Log] Returning week num: 5
 [Info   : Unity Log] week num: 5
 [Info   : Unity Log] host button pressed
 [Info   : Unity Log] Returning week num: 5
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 1
-[Info   : Unity Log] 0
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 1
-[Info   : Unity Log] 1
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 1
-[Info   : Unity Log] 2
-[Info   : Unity Log] AAAAAA
-[Info   : Unity Log] 1
-[Info   : Unity Log] -1
-[Info   : Unity Log] Returning week num: 5
-[Info   : Unity Log] host button pressed
 [Info   :CompatibilityChecker] [5Bit.VoiceHUD] Found package: VoiceHUD[1.0.4]
 		DATA:
 		--NAME: 5Bit-VoiceHUD
@@ -837,6 +749,10 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 		DATA:
 		--NAME: TheHorror-___
 		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [com.github.lethalmods.lethalexpansioncore] Found package: LethalExpansion(core)[1.3.14]
+		DATA:
+		--NAME: Stoneman-LethalExperience
+		--LINK: https://thunderstore.io/c/lethal-company/p/Stoneman/LethalExperience/
 [Info   :CompatibilityChecker] [com.github.tinyhoot.ShipLoot] Found package: ShipLoot[1.0]
 		DATA:
 		--NAME: tinyhoot-ShipLoot
@@ -1234,13 +1150,28 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
 [Info   : Unity Log] started host!
 [Info   : Unity Log] are we in a server?: True
-[Info   :LethalExpansion] LethalExpansion Host Started.
 [Info   :CompatibilityChecker] Set  mods to: Quota Rollover[2.2.0]/@/ReservedItemSlotCore[1.8.10]/@/FasterItemDropship[1.2.1]/@/PersistentPurchases[1.1.1]/@/MirrorDecor[1.2.3]
 [Info   : Unity Log] Lobby has been created
 [Info   : Unity Log] [Network Transport] Initialized
 [Info   : Unity Log] [Network Transport] Connected
-[Info   :LethalExpansion] Unloading scene: MainMenu
+[Info   :LethalExpansion(core)] Unloading scene: MainMenu
 [Info   :LethalThings] Spawning config manager
+[Info   :LethalExpansion(core)] Added scrap 'Battery'
+[Info   :LethalExpansion(core)] Added scrap 'Canned Food'
+[Info   :LethalExpansion(core)] Added scrap 'Matchbox'
+[Info   :LethalExpansion(core)] Added scrap 'Pills'
+[Info   :LethalExpansion(core)] Added scrap 'Tape'
+[Warning:LethalExpansion(core)] Scrap '7Ball ' on moon 'CastleGrounds' could not be found, it has not been registered
+[Info   :LethalExpansion(core)] Added moon 'CastleGrounds'
+[Warning:LethalExpansion(core)] Scrap 'Battery' on moon 'Orion' could not be found, it has not been registered
+[Warning:LethalExpansion(core)] Scrap 'CannedFood' on moon 'Orion' could not be found, it has not been registered
+[Warning:LethalExpansion(core)] Scrap 'Matchbox' on moon 'Orion' could not be found, it has not been registered
+[Warning:LethalExpansion(core)] Scrap 'Pills' on moon 'Orion' could not be found, it has not been registered
+[Warning:LethalExpansion(core)] Scrap 'Tape' on moon 'Orion' could not be found, it has not been registered
+[Info   :LethalExpansion(core)] Added moon 'Orion'
+[Warning:LethalExpansion(core)] Hidden moon 'TestMoon' was excluded in the config
+[Info   :LethalExpansion(core)] Added moon 'Wateridge'
+[Info   :LethalExpansion(core)] Finished adding moons and scrap
 [Info   :Jordo.NeedyCats] Added Needy Cats to items list.
 [Info   :Junypai.GamblersMod] StartOfRoundPatch has awoken
 [Info   : MoreItems] Maximum amount of items that can be saved set to 999.
@@ -1253,6 +1184,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added Boomba to DineLevel with SpawnType [Default]
 [Info   : LethalLib] Added Boomba to OffenseLevel with SpawnType [Default]
 [Info   : LethalLib] Added Boomba to TitanLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to Castle Grounds with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to 43 Orion with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to 102 Wateridge with SpawnType [Default]
 [Info   : LethalLib] Added TeleporterTrap to ExperimentationLevel
 [Info   : LethalLib] Added TeleporterTrap to AssuranceLevel
 [Info   : LethalLib] Added TeleporterTrap to VowLevel
@@ -1262,6 +1196,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added TeleporterTrap to DineLevel
 [Info   : LethalLib] Added TeleporterTrap to OffenseLevel
 [Info   : LethalLib] Added TeleporterTrap to TitanLevel
+[Info   : LethalLib] Added TeleporterTrap to Castle Grounds
+[Info   : LethalLib] Added TeleporterTrap to 43 Orion
+[Info   : LethalLib] Added TeleporterTrap to 102 Wateridge
 [Info   : Unity Log] Enabling connection callbacks in StartOfRound
 [Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
@@ -1296,6 +1233,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added Yippee to DineLevel
 [Info   : LethalLib] Added Yippee to OffenseLevel
 [Info   : LethalLib] Added Yippee to TitanLevel
+[Info   : LethalLib] Added Yippee to Castle Grounds
+[Info   : LethalLib] Added Yippee to 43 Orion
+[Info   : LethalLib] Added Yippee to 102 Wateridge
 [Info   : LethalLib] Added ArsonPlush to ExperimentationLevel
 [Info   : LethalLib] Added ArsonPlush to AssuranceLevel
 [Info   : LethalLib] Added ArsonPlush to VowLevel
@@ -1305,6 +1245,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added ArsonPlush to DineLevel
 [Info   : LethalLib] Added ArsonPlush to OffenseLevel
 [Info   : LethalLib] Added ArsonPlush to TitanLevel
+[Info   : LethalLib] Added ArsonPlush to Castle Grounds
+[Info   : LethalLib] Added ArsonPlush to 43 Orion
+[Info   : LethalLib] Added ArsonPlush to 102 Wateridge
 [Info   : LethalLib] Added CookieFumo to ExperimentationLevel
 [Info   : LethalLib] Added CookieFumo to AssuranceLevel
 [Info   : LethalLib] Added CookieFumo to VowLevel
@@ -1314,6 +1257,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added CookieFumo to DineLevel
 [Info   : LethalLib] Added CookieFumo to OffenseLevel
 [Info   : LethalLib] Added CookieFumo to TitanLevel
+[Info   : LethalLib] Added CookieFumo to Castle Grounds
+[Info   : LethalLib] Added CookieFumo to 43 Orion
+[Info   : LethalLib] Added CookieFumo to 102 Wateridge
 [Info   : LethalLib] Added ToimariPlush to ExperimentationLevel
 [Info   : LethalLib] Added ToimariPlush to AssuranceLevel
 [Info   : LethalLib] Added ToimariPlush to VowLevel
@@ -1323,6 +1269,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added ToimariPlush to DineLevel
 [Info   : LethalLib] Added ToimariPlush to OffenseLevel
 [Info   : LethalLib] Added ToimariPlush to TitanLevel
+[Info   : LethalLib] Added ToimariPlush to Castle Grounds
+[Info   : LethalLib] Added ToimariPlush to 43 Orion
+[Info   : LethalLib] Added ToimariPlush to 102 Wateridge
 [Info   : LethalLib] Added HamisPlush to ExperimentationLevel
 [Info   : LethalLib] Added HamisPlush to AssuranceLevel
 [Info   : LethalLib] Added HamisPlush to VowLevel
@@ -1332,6 +1281,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added HamisPlush to DineLevel
 [Info   : LethalLib] Added HamisPlush to OffenseLevel
 [Info   : LethalLib] Added HamisPlush to TitanLevel
+[Info   : LethalLib] Added HamisPlush to Castle Grounds
+[Info   : LethalLib] Added HamisPlush to 43 Orion
+[Info   : LethalLib] Added HamisPlush to 102 Wateridge
 [Info   : LethalLib] Added ArsonPlushDirty to ExperimentationLevel
 [Info   : LethalLib] Added ArsonPlushDirty to AssuranceLevel
 [Info   : LethalLib] Added ArsonPlushDirty to VowLevel
@@ -1341,6 +1293,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added ArsonPlushDirty to DineLevel
 [Info   : LethalLib] Added ArsonPlushDirty to OffenseLevel
 [Info   : LethalLib] Added ArsonPlushDirty to TitanLevel
+[Info   : LethalLib] Added ArsonPlushDirty to Castle Grounds
+[Info   : LethalLib] Added ArsonPlushDirty to 43 Orion
+[Info   : LethalLib] Added ArsonPlushDirty to 102 Wateridge
 [Info   : LethalLib] Added Dingus to ExperimentationLevel
 [Info   : LethalLib] Added Dingus to AssuranceLevel
 [Info   : LethalLib] Added Dingus to VowLevel
@@ -1350,6 +1305,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added Dingus to DineLevel
 [Info   : LethalLib] Added Dingus to OffenseLevel
 [Info   : LethalLib] Added Dingus to TitanLevel
+[Info   : LethalLib] Added Dingus to Castle Grounds
+[Info   : LethalLib] Added Dingus to 43 Orion
+[Info   : LethalLib] Added Dingus to 102 Wateridge
 [Info   : LethalLib] Added glizzy to ExperimentationLevel
 [Info   : LethalLib] Added glizzy to AssuranceLevel
 [Info   : LethalLib] Added glizzy to VowLevel
@@ -1359,6 +1317,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added glizzy to DineLevel
 [Info   : LethalLib] Added glizzy to OffenseLevel
 [Info   : LethalLib] Added glizzy to TitanLevel
+[Info   : LethalLib] Added glizzy to Castle Grounds
+[Info   : LethalLib] Added glizzy to 43 Orion
+[Info   : LethalLib] Added glizzy to 102 Wateridge
 [Info   : LethalLib] Added Toygun to ExperimentationLevel
 [Info   : LethalLib] Added Toygun to AssuranceLevel
 [Info   : LethalLib] Added Toygun to VowLevel
@@ -1368,6 +1329,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added Toygun to DineLevel
 [Info   : LethalLib] Added Toygun to OffenseLevel
 [Info   : LethalLib] Added Toygun to TitanLevel
+[Info   : LethalLib] Added Toygun to Castle Grounds
+[Info   : LethalLib] Added Toygun to 43 Orion
+[Info   : LethalLib] Added Toygun to 102 Wateridge
 [Info   : LethalLib] Added GremlinEnergy to ExperimentationLevel
 [Info   : LethalLib] Added GremlinEnergy to AssuranceLevel
 [Info   : LethalLib] Added GremlinEnergy to VowLevel
@@ -1377,6 +1341,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added GremlinEnergy to DineLevel
 [Info   : LethalLib] Added GremlinEnergy to OffenseLevel
 [Info   : LethalLib] Added GremlinEnergy to TitanLevel
+[Info   : LethalLib] Added GremlinEnergy to Castle Grounds
+[Info   : LethalLib] Added GremlinEnergy to 43 Orion
+[Info   : LethalLib] Added GremlinEnergy to 102 Wateridge
 [Info   : LethalLib] Added ToyHammer to ExperimentationLevel
 [Info   : LethalLib] Added ToyHammer to AssuranceLevel
 [Info   : LethalLib] Added ToyHammer to VowLevel
@@ -1386,6 +1353,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added ToyHammer to DineLevel
 [Info   : LethalLib] Added ToyHammer to OffenseLevel
 [Info   : LethalLib] Added ToyHammer to TitanLevel
+[Info   : LethalLib] Added ToyHammer to Castle Grounds
+[Info   : LethalLib] Added ToyHammer to 43 Orion
+[Info   : LethalLib] Added ToyHammer to 102 Wateridge
 [Info   : LethalLib] Added GnarpyPlush to ExperimentationLevel
 [Info   : LethalLib] Added GnarpyPlush to AssuranceLevel
 [Info   : LethalLib] Added GnarpyPlush to VowLevel
@@ -1395,6 +1365,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added GnarpyPlush to DineLevel
 [Info   : LethalLib] Added GnarpyPlush to OffenseLevel
 [Info   : LethalLib] Added GnarpyPlush to TitanLevel
+[Info   : LethalLib] Added GnarpyPlush to Castle Grounds
+[Info   : LethalLib] Added GnarpyPlush to 43 Orion
+[Info   : LethalLib] Added GnarpyPlush to 102 Wateridge
 [Info   : LethalLib] Added WeezerGuitar to ExperimentationLevel
 [Info   : LethalLib] Added WeezerGuitar to AssuranceLevel
 [Info   : LethalLib] Added WeezerGuitar to VowLevel
@@ -1404,6 +1377,9 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : LethalLib] Added WeezerGuitar to DineLevel
 [Info   : LethalLib] Added WeezerGuitar to OffenseLevel
 [Info   : LethalLib] Added WeezerGuitar to TitanLevel
+[Info   : LethalLib] Added WeezerGuitar to Castle Grounds
+[Info   : LethalLib] Added WeezerGuitar to 43 Orion
+[Info   : LethalLib] Added WeezerGuitar to 102 Wateridge
 [Info   : LethalLib] Added FireAxe to RendLevel
 [Info   : LethalLib] Added FireAxe to DineLevel
 [Info   : LethalLib] Added FireAxe to TitanLevel
@@ -1543,7 +1519,7 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalLevelLoader] Adding AudioMixerGroup: SFX To Vanilla Reference List!
 [Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
 [Info   :LethalLevelLoader] Adding AudioMixerGroup: Master To Vanilla Reference List!
-[Info   :LethalLevelLoader] Obtained (99 / 68) Vanilla Item References
+[Info   :LethalLevelLoader] Obtained (104 / 68) Vanilla Item References
 [Info   :LethalLevelLoader] Obtained (21 / 20) Vanilla Enemy References
 [Info   :LethalLevelLoader] Obtained (11 / 11) Vanilla Outside Object References
 [Info   :LethalLevelLoader] Obtained (3 / 2) Vanilla Inside Object References
@@ -1568,24 +1544,14 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalLevelLoader] Creating New Extended Level For Moon: Dine
 [Info   :LethalLevelLoader] Creating New Extended Level For Moon: Offense
 [Info   :LethalLevelLoader] Creating New Extended Level For Moon: Titan
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Castle Grounds
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Orion
+[Info   :LethalLevelLoader] Creating New Extended Level For Moon: Wateridge
 [Info   :LethalLevelLoader] Adding Dungeon Flow: CastleFlow
 [Info   :LethalLevelLoader] Adding Dungeon Flow: SCPFlow
 [Info   :LethalLevelLoader] Creating New Extended Level For Moon: 
 [Info   :LethalLevelLoader] Warming Up 550 Shaders Found In: EGypt
-[Info   :LethalExpansion] Loading scene: SampleSceneRelay
-[Debug  :LethalExpansion] Hotfix: Removing duplicated routes
-[Debug  :LethalExpansion] 7route duplicated route removed.
-[Debug  :LethalExpansion] Hotfix: 1 duplicated route(s) removed
-[Info   :LethalExpansion] Terminal reset.
-[Warning:LethalExpansion] The given key 'Battery' was not present in the dictionary.
-[Warning:LethalExpansion] The given key 'CannedFood' was not present in the dictionary.
-[Warning:LethalExpansion] The given key 'Matchbox' was not present in the dictionary.
-[Warning:LethalExpansion] The given key 'Pills' was not present in the dictionary.
-[Warning:LethalExpansion] The given key 'Tape' was not present in the dictionary.
-[Info   :LethalExpansion] Orion Moon added.
-[Warning:LethalExpansion] The given key '7Ball ' was not present in the dictionary.
-[Info   :LethalExpansion] CastleGrounds Moon added.
-[Info   :LethalExpansion] Moon route price updated.
+[Info   :LethalExpansion(core)] Loading scene 'SampleSceneRelay'
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
@@ -1886,8 +1852,6 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :LethalLevelLoader] AudioGroupMixer Reference Inside WaterAudio Was Null, Assigning Master SFX Mixer For Safety!
 [Info   : Unity Log] level id: 0
 [Info   : Unity Log] Changing level
-[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=3&1&5&-1&3&5&4&4&-1&-1&5&2[sync]
-[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=3&1&5&-1&3&5&4&4&-1&-1&5&2[sync]
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
 [Info   : Unity Log] Item sales percentages #2: 0
@@ -2009,17 +1973,21 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Info   :TooManyEmotes] [SaveManager] Loading game values.
 [Info   :TooManyEmotes] Resetting unlocked emotes.
+[Info   :TooManyEmotes] Loading 0 emotes for player: TheExiledLeader
+[Info   :TooManyEmotes] Loading 100 emote credits for player: TheExiledLeader
 [Info   :TooManyEmotes] Loaded 8 unlockable emotes.
-[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
-[Info   :TooManyEmotes] Loaded Seed: 0
-[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
-[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 908343347
-[Info   :TooManyEmotes] Rotate new emote value: 0.174326852976497
-[Info   :TooManyEmotes] Rotate new emote value: 0.551234047185273
-[Info   :TooManyEmotes] Rotate new emote value: 0.187352371489328
-[Info   :TooManyEmotes] Rotate new emote value: 0.239277807175777
-[Info   :TooManyEmotes] Rotate new emote value: 0.711456692177549
-[Info   :TooManyEmotes] Rotate new emote value: 0.879345186929845
+[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 450
+[Info   :TooManyEmotes] Loaded Seed: 586378387
+[Info   : Unity Log] Ship grabbable items list loaded. Count: 5
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 586378387
+[Info   :TooManyEmotes] Rotate new emote value: 0.788435241574624
+[Info   :TooManyEmotes] Rotate new emote value: 0.156638837492391
+[Info   :TooManyEmotes] Rotate new emote value: 0.0431990763373669
+[Info   :TooManyEmotes] Rotate new emote value: 0.522483511605525
+[Info   :TooManyEmotes] Rotate new emote value: 0.21131067826008
+[Info   :TooManyEmotes] Rotate new emote value: 0.919888426978089
 [Info   :LethalFashion] SpawnUnlockable method found successfully.
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -2028,6 +1996,14 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   : Diversity] Added PlayerRevamp to: Player (3)
 [Info   : Diversity] Added PlayerRevamp to: Player (2)
 [Info   : Diversity] Added PlayerRevamp to: Player
+[Debug  :LethalExpansion(core)] Hotfix: Removing duplicated routes
+[Debug  :LethalExpansion(core)] 7route duplicated route removed.
+[Debug  :LethalExpansion(core)] Hotfix: 1 duplicated route(s) removed
+[Info   :LethalExpansion(core)] Terminal reset.
+[Info   :LethalExpansion(core)] Added terminal entry for moon 'CastleGrounds'
+[Info   :LethalExpansion(core)] Added terminal entry for moon 'Orion'
+[Info   :LethalExpansion(core)] Added terminal entry for moon 'Wateridge'
+[Info   :LethalExpansion(core)] Finished updating terminal
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
 [Info   : Unity Log] Item sales percentages #2: 0
@@ -2070,10 +2046,12 @@ UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable()
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
 [Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
 [Info   :PersistentPurchases] Registering 138 unlockables
 [Debug  :PersistentPurchases] Default
@@ -2138,9 +2116,9 @@ BepInEx.Configuration.ConfigFile.Bind[T] (System.String section, System.String k
 PersistentPurchases.Plugin.setupConfig (System.Collections.Generic.List`1[T] unlockables) (at <9d36770362664d9fa32dc014c89006df>:IL_008B)
 PersistentPurchases.Patches.generateConfig () (at <9d36770362664d9fa32dc014c89006df>:IL_0006)
 (wrapper dynamic-method) Terminal.DMD<Terminal::Start>(Terminal)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Terminal::Start>?-1240012576(Terminal)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Terminal::Start>?814821170(Terminal)
 LethalLib.Modules.Enemies.Terminal_Start (On.Terminal+orig_Start orig, Terminal self) (at <c6bd6fcd6b8d4b0a88abbcaf6c53c112>:IL_0336)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Terminal::Start>?998823976(Terminal)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Terminal::Start>?1174978144(Terminal)
 
 [Info   : Unity Log] Spawning backrooms
 [Info   : Diversity] Added HUDManagerRevamp to: PlayersManager / HUDManager
@@ -2176,29 +2154,42 @@ LethalLib.Modules.Enemies.Terminal_Start (On.Terminal+orig_Start orig, Terminal 
 [Info   : Diversity] Added PlayerRevamp to: Player (29)
 [Info   : Diversity] Added PlayerRevamp to: Player (30)
 [Info   : Diversity] Added PlayerRevamp to: Player (31)
-[Info   : Unity Log] Taking control of player Player and enabling camera!
-[Info   :TooManyEmotes] Applied patch for MirrorDecor
-[Info   : Unity Log] Starting voice tracking for player: TheExiledLeader
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-CorporateRestructure.Component.CreditMonitor.UpdateMonitor () (at <145f04274b9a4d6b9e59d1553ca40844>:IL_0000)
-CorporateRestructure.Patch.MonitorPatch.OnPlayerConenct () (at <145f04274b9a4d6b9e59d1553ca40844>:IL_0000)
-(wrapper dynamic-method) GameNetcodeStuff.PlayerControllerB.DMD<GameNetcodeStuff.PlayerControllerB::ConnectClientToPlayerObject>(GameNetcodeStuff.PlayerControllerB)
-(wrapper dynamic-method) GameNetcodeStuff.PlayerControllerB.DMD<GameNetcodeStuff.PlayerControllerB::Update>(GameNetcodeStuff.PlayerControllerB)
-
-[Info   : Unity Log] System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\config2\KillableEnemies.md".
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <787acc3c9a4c471ba7d971300105af24>:IL_0164 
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
-  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
-  at System.IO.File.OpenWrite (System.String path) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
-  at PersonalAssignments.Components.KillableEnemiesOutput.OutputList () [0x000d5] in <0391b5eeb10d416d9ce26cec847c0394>:IL_00D5 
-[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
-[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-Diversity.Player.PlayerRevamp.Update () (at <1e08ad9f61bc443cbfd1b054484a2d58>:IL_0347)
-
-[Info   : Diversity] Added Volume to: PlayersManager / HUDManager
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/beekeeper.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ProteinPowder.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/BiggerLungs.prefab
@@ -2232,47 +2223,39 @@ Diversity.Player.PlayerRevamp.Update () (at <1e08ad9f61bc443cbfd1b054484a2d58>:I
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Pager.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/LockSmith.prefab
 [Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ExtendDeadline.prefab
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Diversity] Added FlashlightRevamp to: BBFlashlight(Clone)
+[Info   : Diversity] Added Rigidbody to: BBFlashlight(Clone)
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
+[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
+[Info   : Diversity] Added Volume to: PlayersManager / HUDManager
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   :TooManyEmotes] Applied patch for MirrorDecor
+[Info   : Unity Log] Starting voice tracking for player: TheExiledLeader
+[Info   :Junypai.GamblersMod] ConnectClientToPlayerObjectPatch
+[Info   :Junypai.GamblersMod] Registering host config message handler: Junypai.GamblersMod_OnHostRecievesClientConfigRequest
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\config2\KillableEnemies.md".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <787acc3c9a4c471ba7d971300105af24>:IL_0164 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenWrite (System.String path) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
+  at PersonalAssignments.Components.KillableEnemiesOutput.OutputList () [0x000d5] in <0391b5eeb10d416d9ce26cec847c0394>:IL_00D5 
 [Warning: Unity Log] RGBA(0.843, 0.180, 0.224, 1.000)
 [Warning: Unity Log] RGBA(0.843, 0.180, 0.224, 1.000)
 [Info   : Unity Log] [SS]: Waiting for suits to sync...
 [Info   : Unity Log] Has beta?: {hasBeta}
 [Info   : Unity Log] Has beta save data: True
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
-[Warning: Unity Log] BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
 [Info   : Unity Log] 76561197999345953
 [Info   : Unity Log] [SS]: Successfully loaded saved suit. (Issac)
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
@@ -2290,9 +2273,18 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   :ReservedItemSlotCore-1.8.10] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   :ReservedItemSlotCore-1.8.10] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
 [Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
 [Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Diversity] Interactor interacted with: StorageCloset
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Diversity] Interactor interacted with: StorageCloset
 [Info   : Unity Log] Set interminalmenu to true: True
 [Info   : Diversity] Interactor interacted with: ShipInside
 [Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet created
@@ -2300,6 +2292,8 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet enabled
 [Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset enabled successfully
 [Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+[Info   : Diversity] Interactor interacted with: ShipInside
+[Info   : Diversity] Interactor interacted with: ShipInside
 [Info   : Unity Log] PLAYER OPENED MENU
 [Info   : Unity Log] In terminal menu: True
 [Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
@@ -2309,26 +2303,26 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Info   : Unity Log] In terminal menu: False
 [Info   :ReservedWalkieSlot] ACTIVATE ITEM
 [Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
 [Info   :Junypai.GamblersMod] Player disconnected. Resetting the user's configuration settings.
 [Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Saving the LGU upgrades unto a json file...
-[Info   : Unity Log] Got no ship grabbable items to save.
 [Info   :TooManyEmotes] [SaveManager] Saving game values.
 [Info   :TooManyEmotes] Saving 8 emotes for player: TheExiledLeader
-[Info   :TooManyEmotes] Saving 100 emote credits for player: TheExiledLeader
-[Info   :TooManyEmotes] Saved Seed: 908343347
+[Info   :TooManyEmotes] Saving 450 emote credits for player: TheExiledLeader
+[Info   :TooManyEmotes] Saved Seed: 586378387
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
 [Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Resetting the Upgrade Bus due to disconnecting...
 [Debug  :More Ship Upgrades] [UpgradeBus] Resetting TheExiledLeader's attributes
 [Info   : Unity Log] [Network Transport] Disconnected
 [Info   : Unity Log] Resetting unlockables list!
 [Info   : Unity Log] Scene manager is null
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
 [Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
 [Info   : Unity Log] DISABLING connection callbacks in round manager
-[Info   :LethalExpansion] Unloading scene: SampleSceneRelay
-[Info   :LethalExpansion] Loading scene: MainMenu
+[Info   :LethalExpansion(core)] Unloading scene: SampleSceneRelay
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
 [Info   : Unity Log] Returning week num: 5
 [Info   : Unity Log] week num: 5
 [Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Resetting the Upgrade Bus due to disconnecting...
