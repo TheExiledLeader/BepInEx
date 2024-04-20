@@ -23,7 +23,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 41 plugins to load
+[Info   :   BepInEx] 39 plugins to load
 [Info   :   BepInEx] Loading [JigglePhysicsPlugin 1.1.2]
 [Info   :JigglePhysicsPlugin] JigglePhysicsPlugin loaded!
 [Info   :   BepInEx] Loading [Terminal Api 1.5.0]
@@ -447,14 +447,6 @@
 [Info   :Buyable Shotgun Shells] Plugin Buyable Shotgun Shells is loaded with version 1.1.0!
 [Info   :   BepInEx] Loading [Hide Chat 1.0.0]
 [Debug  :Miodec.HideChat] hidechat is awake
-[Info   :   BepInEx] Loading [LethalCasino 0.5.2]
-[Info   :mrgrm7.LethalCasino] Using master config difficulty=FUN
-[Info   :mrgrm7.LethalCasino] Asset bundle loaded successfully
-[Warning: Unity Log] The referenced script (Rotate) on this Behaviour is missing!
-[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'Fan_low_part_02') is missing!
-[Debug  :LethalCasino] Patching...
-[Debug  :LethalCasino] Finished Patching!
-[Info   :LethalCasino] mrgrm7.LethalCasino v0.5.2 has loaded!
 [Info   :   BepInEx] Loading [Better Item Scan 3.0.0.2]
 [Info   :PopleZoo.BetterItemScan] Plugin BetterItemScan is loaded!
 [Info   :   BepInEx] Loading [PushCompany 1.2.0]
@@ -463,27 +455,6 @@
 [Info   :MirrorDecor] Plugin MirrorDecor is loaded!
 [Info   :   BepInEx] Loading [Flashlight 1.5.0]
 [Info   :Flashlight] ------Flashlight done.------
-[Info   :   BepInEx] Loading [Skinwalker Mod 5.0.0]
-[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 5.0.0
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
-[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1.5]
-[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
 [Info   :   BepInEx] Loading [Yippee tbh mod 1.2.4]
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
@@ -527,7 +498,6 @@
 [Info   : Unity Log] Saving changed settings
 [Info   : Unity Log] subcribing to steam callbacks
 [Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
-[Info   :mrgrm7.LethalCasino] Adding slot machine to network prefab
 [Info   :LethalThings] Found conductive scrap [LungApparatus]
 [Info   :LethalThings] Found conductive scrap [PatcherGunItem]
 [Info   :LethalThings] Found conductive scrap [Cog]
@@ -581,28 +551,16 @@
 [Info   : Unity Log] Lobby has been created
 [Info   : Unity Log] [Network Transport] Initialized
 [Info   : Unity Log] [Network Transport] Connected
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (G:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   :LethalThings] Spawning config manager
 [Info   :TooManyEmotes-2.1.5] Loading AudioManager preferences.
 [Info   : Unity Log] Enabling connection callbacks in StartOfRound
 [Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
 [Info   : LethalLib] Adding 5 unlockables to unlockables list
 [Info   : LethalLib] Adding 17 items to terminal
-[Info   :mrgrm7.LethalCasino] RoundManagerPatch has awoken
-[Message:mrgrm7.LethalCasino] Awaking CasinoManager
-[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
-[Message:mrgrm7.LethalCasino] CasinoManager is awake
 [Info   :TooManyEmotes-2.1.5] Initializing emote menu
 [Info   :TooManyEmotes-2.1.5] Loading AudioManager preferences.
 [Info   :TooManyEmotes-2.1.5] Loading ThirdPersonEmoteController preferences.
 [Info   :TooManyEmotes-2.1.5] Initializing animation renderer
-[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
-[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
-[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
-[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
-[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
-[Info   : Unity Log] Initialized SkinwalkerNetworkManager
 [Info   :MoreCompany] ResizePlayerCache: 32
 [Info   :MoreCompany] Resizing player cache from 4 to 32 with difference of 28
 [Info   : Unity Log] Called teleport function on Player (4)
@@ -676,6 +634,18 @@
 [Info   : Unity Log] Item sales percentages #27: 0
 [Info   : Unity Log] Item sales percentages #28: 0
 [Info   : Unity Log] Item sales percentages #29: 0
+[Info   : Unity Log] Placing scene object at saved position: Cupboard
+[Info   : Unity Log] Loading placed object position as: (-4.11, 1.64, -12.42)
+[Info   : Unity Log] Saving placed position as: (-4.11, 1.64, -12.42)
+[Info   : Unity Log] Placing scene object at saved position: File Cabinet
+[Info   : Unity Log] Loading placed object position as: (8.41, 1.19, -11.08)
+[Info   : Unity Log] Saving placed position as: (8.41, 1.19, -11.08)
+[Info   : Unity Log] Placing scene object at saved position: Terminal
+[Info   : Unity Log] Loading placed object position as: (9.83, 1.93, -12.15)
+[Info   : Unity Log] Saving placed position as: (9.83, 1.93, -12.15)
+[Info   : Unity Log] Loading placed object position as: (6.96, 2.94, -11.74)
+[Info   : Unity Log] Saving placed position as: (6.96, 2.94, -11.74)
+[Info   : Unity Log] DISABLE OBJECT A
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
 [Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
@@ -776,11 +746,8 @@
 [Info   :TooManyEmotes-2.1.5] Resetting unlocked emotes.
 [Info   :TooManyEmotes-2.1.5] Loading 0 unlocked emotes for player: TheExiledLeader
 [Info   :TooManyEmotes-2.1.5] Loading 100 emote credits for player: TheExiledLeader
-[Info   :TooManyEmotes-2.1.5] Loaded Seed: 865340481
-[Info   : Unity Log] Ship grabbable items list loaded. Count: 3
-[Info   : Unity Log] Setting scrap value for item: ArsonPlushDirty(Clone): 56
-[Info   : Unity Log] Setting scrap value for item: DiyFlashbang(Clone): 18
-[Info   : Unity Log] Setting scrap value for item: ToimariPlush(Clone): 88
+[Info   :TooManyEmotes-2.1.5] Loaded Seed: 883574805
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
 [Error  : Unity Log] InvalidOperationException: Entry container has not been assigned.
 Stack trace:
 CSync.Lib.ConfigSyncBehaviour.EnsureEntryContainer () (at /home/runner/work/CSync/CSync/CSync/Lib/ConfigSyncBehaviour.cs:45)
@@ -788,21 +755,21 @@ CSync.Lib.ConfigSyncBehaviour.Awake () (at /home/runner/work/CSync/CSync/CSync/L
 UnityEngine.Object:Instantiate(GameObject, Transform)
 CSync.Patches.StartOfRoundPatch:OnSessionStart(StartOfRound) (at /home/runner/work/CSync/CSync/CSync/Patches/StartOfRoundPatch.cs:22)
 StartOfRound:DMD<StartOfRound::Start>(StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?-1730978468(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?1609367470(StartOfRound)
 LethalLib.Modules.Items:StartOfRound_Start(orig_Start, StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?1250622692(StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?1303444110(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?-1074810688(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?-1928515688(StartOfRound)
 LethalLib.Modules.Utilities:StartOfRound_Start(orig_Start, StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?683102400(StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?-1221488048(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?-1616053968(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?-1309651642(StartOfRound)
 LethalThings.NetworkConfig:StartOfRound_Start(orig_Start, StartOfRound) (at O:/github/LethalThings/LethalThings/NetworkConfig.cs:272)
-MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?1603328172(StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?855707892(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?-597455640(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?698780486(StartOfRound)
 LethalThings.Patches.Miscellaneous:StartOfRound_Start(orig_Start, StartOfRound) (at O:/github/LethalThings/LethalThings/Patches/Miscellaneous.cs:210)
-MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?311805880(StartOfRound)
-MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?-554856368(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?987198412(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Trampoline<StartOfRound::Start>?1067725044(StartOfRound)
 LethalThings.Patches.Debug:StartOfRound_Start(orig_Start, StartOfRound) (at O:/github/LethalThings/LethalThings/Patches/Debug.cs:109)
-MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?-686406712(StartOfRound)
+MonoMod.Utils.DynamicMethodDefinition:Hook<StartOfRound::Start>?-1672018828(StartOfRound)
 
 [Error  :     CSync] Failed to instantiate config sync behaviours:
 System.Exception: ConfigSyncBehaviour._deltas cannot be null. All NetworkVariableBase instances must be initialized.
@@ -814,7 +781,7 @@ System.Exception: ConfigSyncBehaviour._deltas cannot be null. All NetworkVariabl
   at Unity.Netcode.NetworkSpawnManager.SpawnNetworkObjectLocally (Unity.Netcode.NetworkObject networkObject, System.UInt64 networkId, System.Boolean sceneObject, System.Boolean playerObject, System.UInt64 ownerClientId, System.Boolean destroyWithScene) [0x00044] in <895801699cfc4b4ab52267f31e2a4998>:IL_0044 
   at Unity.Netcode.NetworkObject.SpawnInternal (System.Boolean destroyWithScene, System.UInt64 ownerClientId, System.Boolean playerObject) [0x0006a] in <895801699cfc4b4ab52267f31e2a4998>:IL_006A 
   at CSync.Patches.StartOfRoundPatch.OnSessionStart (StartOfRound __instance) [0x00021] in /home/runner/work/CSync/CSync/CSync/Patches/StartOfRoundPatch.cs:24 
-[Info   :TooManyEmotes-2.1.5] Rotating emote selection in store. Seed: 865340481
+[Info   :TooManyEmotes-2.1.5] Rotating emote selection in store. Seed: 883574805
 [Info   :Too Many Suits] StartOfRound!
 [Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (1)
 [Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (3)
@@ -851,7 +818,7 @@ System.Exception: ConfigSyncBehaviour._deltas cannot be null. All NetworkVariabl
 [Info   : Unity Log] Item sales percentages #27: 0
 [Info   : Unity Log] Item sales percentages #28: 0
 [Info   : Unity Log] Item sales percentages #29: 0
-[Info   : Unity Log] Group credits: 48
+[Info   : Unity Log] Group credits: 50
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
@@ -929,11 +896,10 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
-[Info   :More Ship Upgrades] [LguStore] Loading save file for slot 0.
+[Info   :More Ship Upgrades] [LguStore] No save file found for slot 0. Creating new.
 [Info   :More Ship Upgrades] [LguStore] SteamID is not available yet, waiting...
 [Info   :More Ship Upgrades] [LguStore] LAN detected, loading under ID 0
-[Info   :More Ship Upgrades] [LguStore] Successfully loaded save data for ID: 0
-[Info   :More Ship Upgrades] [UpgradeBus] Sale data empty, continuing...
+[Info   :More Ship Upgrades] [LguStore] 0 Was not found in save dictionary! Creating new save for ID.
 [Info   :More Ship Upgrades] [Hunter] Hoarding Bug set to be harvestable at level 1
 [Info   :More Ship Upgrades] [Hunter] Snare Flea set to be harvestable at level 1
 [Info   :More Ship Upgrades] [Hunter] Bunker Spider set to be harvestable at level 2
@@ -992,11 +958,10 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
   at System.IO.File.OpenWrite (System.String path) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
   at PersonalAssignments.Components.KillableEnemiesOutput.OutputList () [0x000d5] in <0391b5eeb10d416d9ce26cec847c0394>:IL_00D5 
 [Info   : Unity Log] [SS]: Waiting for suits to sync...
-[Info   :TooManyEmotes-2.1.5] Rotating emote selection in store. Seed: 865340481
+[Info   :TooManyEmotes-2.1.5] Rotating emote selection in store. Seed: 883574805
 [Info   : Unity Log] Has beta?: {hasBeta}
 [Info   : Unity Log] Has beta save data: True
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (G:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :More Ship Upgrades] [LguStore] Applying loaded upgrades...
+[Warning: Unity Log] [Dissonance:Recording] (02:17:15.672) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:6.404206)
 [Warning:Lethal Company API] Asking all other players for their mod list..
 [Error  : Unity Log] MissingMethodException: Method not found: int .RoundManager.PlayRandomClip(UnityEngine.AudioSource,UnityEngine.AudioClip[],bool,single,int)
 Stack trace:
@@ -1007,55 +972,1370 @@ LC_API.GameInterfaceAPI.Features.Player.Update () (at <9c282cdfc7dc4cca9fcc5df09
 [Info   :ReservedItemSlotCore-2.0.20] Unlocking reserved item slot: walkie_talkie
 [Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
 [Info   :LethalThings] Syncing configs!
-[Info   : Unity Log] [SS]: Successfully loaded saved suit. (GlowStick07Purple)
+[Info   : Unity Log] [SS]: Successfully loaded saved suit. (Issac)
 [Error  : Unity Log] MissingMethodException: Method not found: int .RoundManager.PlayRandomClip(UnityEngine.AudioSource,UnityEngine.AudioClip[],bool,single,int)
 Stack trace:
 LC_API.GameInterfaceAPI.Features.Player.Update () (at <9c282cdfc7dc4cca9fcc5df099e02800>:IL_00E9)
 
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (G:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
-[Info   : Unity Log] DISABLE OBJECT C
-[Info   : Unity Log] DISABLE OBJECT D
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (G:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Set interminalmenu to true: True
-[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; False
-[Info   : Unity Log] isDemo:False ; True
-[Info   : Unity Log] isDemo:False ; True
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (G:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
-[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: TheExiledLeader
-[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (G:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Player joined w steamId: 76561198035900944
+[Info   : Unity Log] Connection approval callback! Game version of client request: 50,76561198035900944
+[Info   : Unity Log] Joining client id: 1; Local/host client id: 0
+[Info   : Unity Log] Approved connection?: True. Connected players #: 1
+[Info   : Unity Log] Disapproval reason: 
+[Warning: Unity Log] [Netcode] Deferred messages were received for a trigger of type OnSpawn with key 0, but that trigger was not received within within 1 second(s).
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
-[Info   :mrgrm7.LethalCasino] Player disconnected.
+[Info   : Unity Log] Got no ship grabbable items to save.
 [Info   :TooManyEmotes-2.1.5] Saving game values.
 [Info   :TooManyEmotes-2.1.5] Saving 19 unlocked emotes for player: TheExiledLeader
 [Info   :TooManyEmotes-2.1.5] Saving 100 emote credits for player: TheExiledLeader
-[Info   :TooManyEmotes-2.1.5] Saved Seed: 865340481
+[Info   :TooManyEmotes-2.1.5] Saved Seed: 883574805
 [Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
 [Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Resetting the Upgrade Bus due to disconnecting...
 [Debug  :More Ship Upgrades] [UpgradeBus] Resetting TheExiledLeader's attributes
 [Debug  :More Ship Upgrades] [LguStore] Resetting the ship's attributes
-[Info   : Unity Log] [Network Transport] Disconnected
+[Warning: Unity Log] [Dissonance:Recording] (02:17:51.121) BasicMicrophoneCapture: Insufficient buffer space, requested 18720, clamped to 16383 (dropping 2337 samples)
+[Warning: Unity Log] [Dissonance:Recording] (02:17:51.122) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (02:17:51.123) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] Disconnect callback called
+[Info   : Unity Log] Is server: True; ishost: True; isConnectedClient: False
+[Info   : Unity Log] Disconnect callback called in gamenetworkmanager; disconnecting clientId: 1
+[Info   : Unity Log] A Player disconnected but they were not in clientplayerlist
 [Error  : Unity Log] InvalidOperationException: Entry container has not been assigned.
 Stack trace:
 CSync.Lib.ConfigSyncBehaviour.EnsureEntryContainer () (at /home/runner/work/CSync/CSync/CSync/Lib/ConfigSyncBehaviour.cs:45)
 CSync.Lib.ConfigSyncBehaviour.DisableOverrides () (at /home/runner/work/CSync/CSync/CSync/Lib/ConfigSyncBehaviour.cs:184)
 CSync.Lib.ConfigSyncBehaviour.OnDestroy () (at /home/runner/work/CSync/CSync/CSync/Lib/ConfigSyncBehaviour.cs:96)
 
+[Info   : Unity Log] [Network Transport] Disconnected
 [Info   : Unity Log] Resetting unlockables list!
 [Info   : Unity Log] Scene manager is null
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
 [Info   : Unity Log] Terminal disabled, disabling ESC key listener
 [Info   : Unity Log] DISABLING connection callbacks in round manager
 [Info   :MoreCompany] LANMenu startLAN Patched
 [Info   : Unity Log] Returning week num: 18
 [Info   : Unity Log] week num: 18
+[Info   : Unity Log] JOIN REQUESTED through steam invite
+[Info   : Unity Log] lobby id: 109775241389413610
+[Info   : Unity Log] Lobby id joining: 109775241389413610
+[Info   : Unity Log] refreshing lobby...
+[Info   : Unity Log] Waiting for lobby data refresh
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] Got lobby data refresh!; 109775241389413610
+[Info   : Unity Log] Members in lobby: 1
+[Info   : Unity Log] Lobby join accepted! Lobby id 109775241389413610 is OK
+[Info   : Unity Log] lobby.id: 109775241389413610
+[Info   : Unity Log] id: 109775241389413610
+[Info   : Unity Log] Successfully joined steam lobby.
+[Info   : Unity Log] AA 109775241389413610
+[Info   : Unity Log] BB 109775241389413610
+[Info   : Unity Log] CC 76561198010614574
+[Info   : Unity Log] Game version: 50
+[Info   : Unity Log] started client!
+[Info   : Unity Log] Displaying menu message
+[Info   :TooManyEmotes-2.1.5] Loading AudioManager preferences.
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   : LethalLib] Adding 5 unlockables to unlockables list
+[Info   : LethalLib] Unlockable Small Rug already exists in unlockables list, skipping
+[Info   : LethalLib] Unlockable Large Rug already exists in unlockables list, skipping
+[Info   : LethalLib] Unlockable Fatalities Sign already exists in unlockables list, skipping
+[Info   : LethalLib] Unlockable Dartboard already exists in unlockables list, skipping
+[Info   : LethalLib] Unlockable Mirror already exists in unlockables list, skipping
+[Info   : LethalLib] Keyword small-rug already registed, skipping.
+[Info   : LethalLib] Keyword large-rug already registed, skipping.
+[Info   : LethalLib] Keyword fatalities-sign already registed, skipping.
+[Info   : LethalLib] Keyword dartboard already registed, skipping.
+[Info   : LethalLib] Keyword mirror already registed, skipping.
+[Info   : LethalLib] Adding 17 items to terminal
+[Info   :TooManyEmotes-2.1.5] Initializing emote menu
+[Info   :TooManyEmotes-2.1.5] Loading AudioManager preferences.
+[Info   :TooManyEmotes-2.1.5] Loading ThirdPersonEmoteController preferences.
+[Info   :TooManyEmotes-2.1.5] Initializing animation renderer
+[Info   :MoreCompany] ResizePlayerCache: 32
+[Info   :MoreCompany] Resizing player cache from 4 to 32 with difference of 28
+[Info   : Unity Log] Called teleport function on Player (4)
+[Info   : Unity Log] Called teleport function on Player (5)
+[Info   : Unity Log] Called teleport function on Player (6)
+[Info   : Unity Log] Called teleport function on Player (7)
+[Info   : Unity Log] Called teleport function on Player (8)
+[Info   : Unity Log] Called teleport function on Player (9)
+[Info   : Unity Log] Called teleport function on Player (10)
+[Info   : Unity Log] Called teleport function on Player (11)
+[Info   : Unity Log] Called teleport function on Player (12)
+[Info   : Unity Log] Called teleport function on Player (13)
+[Info   : Unity Log] Called teleport function on Player (14)
+[Info   : Unity Log] Called teleport function on Player (15)
+[Info   : Unity Log] Called teleport function on Player (16)
+[Info   : Unity Log] Called teleport function on Player (17)
+[Info   : Unity Log] Called teleport function on Player (18)
+[Info   : Unity Log] Called teleport function on Player (19)
+[Info   : Unity Log] Called teleport function on Player (20)
+[Info   : Unity Log] Called teleport function on Player (21)
+[Info   : Unity Log] Called teleport function on Player (22)
+[Info   : Unity Log] Called teleport function on Player (23)
+[Info   : Unity Log] Called teleport function on Player (24)
+[Info   : Unity Log] Called teleport function on Player (25)
+[Info   : Unity Log] Called teleport function on Player (26)
+[Info   : Unity Log] Called teleport function on Player (27)
+[Info   : Unity Log] Called teleport function on Player (28)
+[Info   : Unity Log] Called teleport function on Player (29)
+[Info   : Unity Log] Called teleport function on Player (30)
+[Info   : Unity Log] Called teleport function on Player (31)
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Error  : Unity Log] InvalidOperationException: Entry container has not been assigned.
+Stack trace:
+CSync.Lib.ConfigSyncBehaviour.EnsureEntryContainer () (at /home/runner/work/CSync/CSync/CSync/Lib/ConfigSyncBehaviour.cs:45)
+CSync.Lib.ConfigSyncBehaviour.Awake () (at /home/runner/work/CSync/CSync/CSync/Lib/ConfigSyncBehaviour.cs:50)
+UnityEngine.Object:Instantiate(GameObject)
+Unity.Netcode.NetworkSpawnManager:CreateLocalNetworkObject(SceneObject)
+Unity.Netcode.NetworkObject:AddSceneObject(SceneObject&, FastBufferReader, NetworkManager)
+Unity.Netcode.SceneEventData:SynchronizeSceneNetworkObjects(NetworkManager)
+Unity.Netcode.NetworkSceneManager:HandleClientSceneEvent(UInt32)
+Unity.Netcode.NetworkSceneManager:ClientLoadedSynchronization(UInt32)
+Unity.Netcode.SceneEventProgress:<SetAsyncOperation>b__37_0(AsyncOperation)
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+[Error  : Unity Log] Exception: ConfigSyncBehaviour._deltas cannot be null. All NetworkVariableBase instances must be initialized.
+Stack trace:
+CSync.Lib.ConfigSyncBehaviour.__initializeVariables () (at <23971bf8fe1c4f5c86f03fb1231f56ce>:IL_005F)
+Unity.Netcode.NetworkBehaviour.InitializeVariables () (at <895801699cfc4b4ab52267f31e2a4998>:IL_0010)
+Unity.Netcode.NetworkObject.SetNetworkVariableData (Unity.Netcode.FastBufferReader reader, System.UInt64 clientId) (at <895801699cfc4b4ab52267f31e2a4998>:IL_0010)
+Unity.Netcode.NetworkObject.SynchronizeNetworkBehaviours[T] (Unity.Netcode.BufferSerializer`1[T]& serializer, System.UInt64 targetClientId) (at <895801699cfc4b4ab52267f31e2a4998>:IL_0113)
+Unity.Netcode.NetworkObject.AddSceneObject (Unity.Netcode.NetworkObject+SceneObject& sceneObject, Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkManager networkManager) (at <895801699cfc4b4ab52267f31e2a4998>:IL_0093)
+Unity.Netcode.SceneEventData.SynchronizeSceneNetworkObjects (Unity.Netcode.NetworkManager networkManager) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Unity.Netcode.NetworkSceneManager.HandleClientSceneEvent (System.UInt32 sceneEventId) (at <895801699cfc4b4ab52267f31e2a4998>:IL_0111)
+Unity.Netcode.NetworkSceneManager.ClientLoadedSynchronization (System.UInt32 sceneEventId) (at <895801699cfc4b4ab52267f31e2a4998>:IL_01A5)
+Unity.Netcode.SceneEventProgress.<SetAsyncOperation>b__37_0 (UnityEngine.AsyncOperation asyncOp2) (at <895801699cfc4b4ab52267f31e2a4998>:IL_0012)
+UnityEngine.AsyncOperation.InvokeCompletionEvent () (at <e27997765c1848b09d8073e5d642717a>:IL_000F)
+
+[Info   : LethalLib] Found 5 prefabs to fix
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Initiating components...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Snare Flea Sample component initiated...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Bunker Spider Sample component initiated...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Hoarding Bug Sample component initiated...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Bracken Sample component initiated...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Eyeless Dog Sample component initiated...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Baboon Hawk Sample component initiated...
+[Debug  :More Ship Upgrades] [SpawnItemManager] Thumper Sample component initiated...
+[Info   :Too Many Suits] StartOfRound!
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (1)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (3)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (2)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player
+[Info   : LethalLib] Skipping Crystal Ray because it was already added
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Item sales percentages #13: 0
+[Info   : Unity Log] Item sales percentages #14: 0
+[Info   : Unity Log] Item sales percentages #15: 0
+[Info   : Unity Log] Item sales percentages #16: 0
+[Info   : Unity Log] Item sales percentages #17: 0
+[Info   : Unity Log] Item sales percentages #18: 0
+[Info   : Unity Log] Item sales percentages #19: 0
+[Info   : Unity Log] Item sales percentages #20: 0
+[Info   : Unity Log] Item sales percentages #21: 0
+[Info   : Unity Log] Item sales percentages #22: 0
+[Info   : Unity Log] Item sales percentages #23: 0
+[Info   : Unity Log] Item sales percentages #24: 0
+[Info   : Unity Log] Item sales percentages #25: 0
+[Info   : Unity Log] Item sales percentages #26: 0
+[Info   : Unity Log] Item sales percentages #27: 0
+[Info   : Unity Log] Item sales percentages #28: 0
+[Info   : Unity Log] Item sales percentages #29: 0
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (4)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (5)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (6)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (7)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (8)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (9)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (10)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (11)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (12)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (13)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (14)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (15)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (16)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (17)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (18)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (19)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (20)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (21)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (22)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (23)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (24)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (25)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (26)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (27)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (28)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (29)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (30)
+[Info   :ReservedItemSlotCore-2.0.20] Initializing ReservedPlayerData for player: Player (31)
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Info   :More Ship Upgrades] [Hunter] Hoarding Bug set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Snare Flea set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Bunker Spider set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Baboon Hawk set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Bracken set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Eyeless Dog set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Half/Thumper set to be harvestable at level 3
+[Info   :More Ship Upgrades] [UpgradeBus] Successfully reconstructed with hosts config.
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Info   :LethalThings] Syncing configs!
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] Setting animation on client
+[Info   : Unity Log] Setting animation on client
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] Some metrics in the collection went over the configured values limit. Some values were ignored.
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children not resolved to parents by the end of frame
+[Info   : Unity Log] soumdmanager: True; False
+[Warning: Unity Log] [Netcode] NetworkObject (1) children
